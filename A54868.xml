@@ -1,0 +1,2650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some helps for the Indians shewing them how to improve their natural reason, to know the true God, and the Christian religion 1. by leading them to see the divine authority of the Scriptures, 2. by the Scriptures, the divine truths necessary to eternal salvation / by Abraham Peirson ; examined and approved by that experienced gentleman (in the Indian language) John Scot.</title>
+            <author>Pierson, Abraham, 1608-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54868</idno>
+            <idno type="STC">Wing P2213</idno>
+            <idno type="STC">ESTC W37279</idno>
+            <idno type="EEBO-CITATION">09025223</idno>
+            <idno type="OCLC">ocm 09025223</idno>
+            <idno type="VID">42261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1292:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some helps for the Indians shewing them how to improve their natural reason, to know the true God, and the Christian religion 1. by leading them to see the divine authority of the Scriptures, 2. by the Scriptures, the divine truths necessary to eternal salvation / by Abraham Peirson ; examined and approved by that experienced gentleman (in the Indian language) John Scot.</title>
+                  <author>Pierson, Abraham, 1608-1678.</author>
+               </titleStmt>
+               <extent>67 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Green,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With interlinear English translation.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quinnipiac language --  Texts.</term>
+               <term>Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42261:1" rendition="simple:additions"/>
+            <p>Some Helps for the INDIANS; Shewing them how to Improve their Natural Reaſon, to know the true God, and the Chriſtian Religion.</p>
+            <list>
+               <item>1. By leading them to ſee the Divine Authority of the Scriptures.</item>
+               <item>2. By the Scriptures, the Divine truths neceſſary to Eternal ſal<g ref="char:EOLhyphen"/>vation.</item>
+            </list>
+            <p>BY <hi>ABRAHAM PEIRSON</hi> Paſtor of the Church at <hi>Branford.</hi>
+            </p>
+            <p>Examined and approved by that Experienced Gentleman (in the <hi>In<g ref="char:EOLhyphen"/>dian</hi> Language) Captain <hi>JOHN SCOT.</hi>
+            </p>
+            <p>
+               <hi>CAMBRIDGE:</hi> Printed for <hi>Samuel Green,</hi> 1658.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:42261:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:42261:2"/>
+            <head>To the Reader</head>
+            <p>WHO have occaſion to make uſe of this Book, may pleaſe to obſerve, that the accute; or, long accent thus noted <hi>(á)</hi> ſignifies that the ſillable over which it is placed is to be pronounced <hi>long;</hi> the reſt of the words be ſhort, till the like, or a circumflex do regulate the ſillables following. Words of two ſillables moſt frequently be not accented at all, being commonly of equal meaſure, and hardly, miſpronou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced. Alſo, ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dry times the prepoſitions in, with, for, from, <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>c: be ſet after the Subſtantives in the Indian <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed before them in the Engliſh, that ſo no harſhneſs (this caution remembred) may ſound in either.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ewiſe ſometime a phraſe is uſed in the Indian, which word for word can hardly be rendred in the Engliſh; but then, and ever, care is had that in every ſentence, and within the limits of every ſtop, the Indian doth truely anſwer the Engliſh, The Lord pardon, accept, and give <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that this may be an help towards the sp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tual good of Indian ſoules.</p>
+            <closer>
+               <signed>So prayes A. P.</signed>
+            </closer>
+         </div>
+         <div xml:lang="alg" type="half_title">
+            <pb n="4" facs="tcp:42261:3"/>
+            <p>POſhſhe Aírenamáwetouwúngaſh wutche Eànsketámbawg, Okkekôodemúnganâuwaus ten auwárchan nêjek arumbáwe penauwuawunk wauhéan webe waugh wauwérhummat Man<g ref="char:EOLhyphen"/>do Iehovah, quah wérramâuwe Chriſtianâu<g ref="char:EOLhyphen"/>we routàſowank. Negónne ſpe pummóoa<g ref="char:EOLhyphen"/>warránau nejek kenâwmen Mandowe tóuh<g ref="char:EOLhyphen"/>kretáſſowunk wutche God wuskwhéganſh. Néeſeetetâuwe ſpe God wuskwhêganſh màn<g ref="char:EOLhyphen"/>dowâious wêrramauwúnganſh queraûhikka<g ref="char:EOLhyphen"/>muks re michéme kejâhiitawunk.</p>
+         </div>
+         <div xml:lang="eng" type="half_title">
+            <p>Some helps for the Indians, ſhewing them how to improve their natural Reaſon to know the only true God, and the true Chriſtian religion. Firſt by lead<g ref="char:EOLhyphen"/>ing them to ſee the divine Autho<g ref="char:EOLhyphen"/>rity of the Scriptures. Secondly by the Scriptures the divine Truths neceſſary to eternal Salvation.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="alg" type="catechism">
+            <pb n="5" facs="tcp:42261:3"/>
+            <div n="1" type="part">
+               <div type="question">
+                  <head>Náttoohtemâuwetoowunk.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">T</seg>Oohgôdje kor âmen neh átta Mandouh</hi>
+                  </p>
+                  <div type="answer">
+                     <head>Anaſquet âuweten.</head>
+                     <p>Wutche wéwinnakommuk quah yeiache wêrrawâuwunk wutche wame arkèes, quah skeetambâwg mittâuhkuk terre, owwànnak matta ſâuwaiooguk wutche ſompâio pe<g ref="char:EOLhyphen"/>nauwauwuk quah renôowunk.</p>
+                     <p>Wutche ai akquíiks chawgwunſh weka<g ref="char:EOLhyphen"/>kontamooawk skeje nanſe eawk rènwawk róy<g ref="char:EOLhyphen"/>tammoúnganſh quah wàrramaw oytammo<g ref="char:EOLhyphen"/>unganſh matta wèrramattauoomuks wutche wame rènawawk, quah wegonje àſſowunnama<g ref="char:EOLhyphen"/>nôoſh: webe (youh côytàmmoounk) neh
+<pb n="6" facs="tcp:42261:4"/>Mandoo nànnarwee re wâme rènawawk matta àſſowúnun ôoanas<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſpe aſſowunnàmoúnganſh quompaìous; nègouche youh paughke môuche ſongème wutche chawgun nowèta weqúa-ai, teou nannarwe re wame rènnawawk. quah youh wequa-ai pahke mouche nukqúddee wutche aſ-híewunk wutche pommochawàſhſhâu<g ref="char:EOLhyphen"/>was wutche negonîek ouſhwâwog rèñawawk re wame nejek wúttanſewúngannôoawk wutche àntfeunganak, re àntſunganak, ouwànnak matta pèperruwâgup re múkkraſſoowúnganòas rame iſchâuwúnganak terre wutchio rio ſhaiô ſhàramauwúnganak; ux wutche ramiôuk we<g ref="char:EOLhyphen"/>quàai ramekèzekekózzo ramee útteoitúmmoo<g ref="char:EOLhyphen"/>únganoo wutche wame rènnawawk ſpe Iehovah<g ref="char:EOLhyphen"/>nagum. Quah neh nenar wequàai útteamo<g ref="char:EOLhyphen"/>pètànguanau wàme rènnawawk renàmpaûwe; mous kème ſpe wèz-ſaſſawunganſh teous ût<g ref="char:EOLhyphen"/>team
+<pb n="7" facs="tcp:42261:4"/>wame rénnawawk pókkat<g ref="char:EOLhyphen"/>che rehit chawgun waughtaſſoowawk mat<g ref="char:EOLhyphen"/>cherèwunk, mukko renna matta waughtam<g ref="char:EOLhyphen"/>móan, quah skeje chechége móncharawa<g ref="char:EOLhyphen"/>núnguotuſh ahárrêmuks', arra Páddaquáh<g ref="char:EOLhyphen"/>hum, Quequanſh, mazzenúnguottuſh kéſeſuk terre, ſquárrug arrákſak &amp;c: youh kakkoo<g ref="char:EOLhyphen"/>dumchàmo neh nejek wauhtânnau mouche mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>kiſſoowunk auſin keizhittiſhànnuk, mukko matta naûwah, ouwun bitch arroutaûtak matcherêwunk, quah òm uttrên hanrukke<g ref="char:EOLhyphen"/>que roytaks. Quah youh mutche God Jehovah Nézetataùwe, waske noujàiitch wame aiakquiiks, teous uttahhênau rambatſen púmmaiawunk. Wutche aiakquiiks téous nou<g ref="char:EOLhyphen"/>jáiiggiſhhanſh, matta hom wâje pummaiawún<g ref="char:EOLhyphen"/>ganoo, wutche ne matta pummaynook matta hom rémanoo chaugun, matta hom chaugun
+<pb n="8" facs="tcp:42261:5"/>pummaâio, askam pummaây nóſhan, newutche paughke [môuchh] outàhhèamo noujaiewunk wutche chaugun nowêta perrewawhjaioohittit teou matta outchinoh, [meh chu noujaiewunk] quah nè-wutche negonne pummayawunk quah kezhúwan waje wutche wame unkatagganak<g ref="char:EOLhyphen"/>pum mayawúnganſh.</p>
+                     <p>Moh negônne ren, quah negônne kèrequa<g ref="char:EOLhyphen"/>bus, quah negónn rame wame achabwehitta<g ref="char:EOLhyphen"/>wunk wutche púmpamantajek kezhittshaunak, webe youh negônne ren quah kerequâbus, quah <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ôujek negonnijek wutche wame attchabre<g ref="char:EOLhyphen"/>hittewúnganſh pûmpamántejek kezhittishañák matta hom kezhúwáwk hoggaûwâwwo: negáuche moh negonne pummâyhuad, youh ſunkaio [ſambió] quah webe negamo tſe wutcha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ô, quah matta chetamſſennômanah chaugun, nôh moh a kam wâme nejek, quah
+<pb n="9" facs="tcp:42261:5"/>kezhuwuſhan wanne wame, quah skeje youb wame kattágganſh pummáyawúganſh korché<g ref="char:EOLhyphen"/>támſenak. Quah youh atta God Jebovah.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Ten hôm kuttawáuhtaun ne atta Mando maetax kekenâuwah, matta hôm nauwo?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An:</hi> Nouwáuhtâun no wadjânaman pe<g ref="char:EOLhyphen"/>naunâuwe mittachonkq, mukko matta ne nauw. w mátta hôm nauwo. Mittachonk matta hom raſhawrándowe pummâyawunk hôm naûwit ſpe hoggâuwe skeſuks, quáh riò matta oútachon. Rio God matta raſhauwan<g ref="char:EOLhyphen"/>doo, om naûwit ſpe hoggâuwe skeſuks; quah rio matta Mando.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Webe matta howan nowêta hom tabâ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e wauhtawn Jehovah rièwunk [arándoit] nègouche matta Mando?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An:</hi> Youh matta nôskommôenah, wut<g ref="char:EOLhyphen"/>che
+<pb n="10" facs="tcp:42261:6"/>wómarremúggeree árrumâuit hommatta tabáíe wâuhtawn aiakquiiks wutche ſháram<g ref="char:EOLhyphen"/>úggeſee quah arwenúngeſee arrumbaúit, aúſe nagamo hoggunk. Oppiſh ſhamok hommatta wauhtàuóùnau chawgun ren atta, ſhare okkóſſiſſe ten reokkechan, quah ſoudamotâu<g ref="char:EOLhyphen"/>ôân kortaſoôdo moúnganſh; ux koodamanchan wnskwhaganakre, ux ſeboghómman akkóm<g ref="char:EOLhyphen"/>muk kathans &amp;c: Wutchè yous aiakquiiks [remuks] ârrooka wáuwáunk nejek waúhtam<g ref="char:EOLhyphen"/>mawunganoó rio ren nauwun ewo hogga kezhean wutche arwenúguot arrumbâuwunk aûfinre oppiſhimmok, quah youh matta wut<g ref="char:EOLhyphen"/>che nagum hogga, pauhke mouſhe pakadoo<g ref="char:EOLhyphen"/>wan ne hôwan kezhuwus uwâio arrôokawah oppiſhim, ewo auſinre arrôokawah renôok àrra ren arrôokawant oppiſhſhim; quah <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ègouche ne tabâio wauhtawunk wutche uwio
+<pb n="11" facs="tcp:42261:6"/>arrándoit [árrumàuwunk] âuſin errôokawah renna kitchſhantàmmoowunk.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Shâraog Mandòuk? ux webe átta pa<g ref="char:EOLhyphen"/>pâſaguun wah wèrramat Jehovah?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Matta ſharáou Mandoak, atta webe pâ<g ref="char:EOLhyphen"/>ſuk wah wérremat Mando Jehovah.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>To gouje korámen ne webe pâſuk wah werremat J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hovah?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> Wutche waiâiewunk tohódje nanſâie<g ref="char:EOLhyphen"/>wok aiakquíiks wútche anſéjekmuche nenar kokkôodiſhahéawk matta miſskommauwaû<g ref="char:EOLhyphen"/>oân râme àrumbâuwunk [arándoit] wutche God; wuche wajâiewunk tohodje arſôauk aiakquiiks kokkôodiſhhéauk atta wutche hokkiſſègowunk wutche wajaiwunganooas: webe God matta outãhe wajâiewunk wutche uwâio pummaîewunk, webe wutche nagum hogga negôuche papaſaqun.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <pb n="12" facs="tcp:42261:7"/>
+                     <p>2. Newutche nanſâioaks aiàkquiiks wutche nenar ârak nantſéjek kokkoodriſhſhahettit, àchabiſſohèawawk yarâuwe nàgamáuwo hog<g ref="char:EOLhyphen"/>gâuwo weêche nejek nanſeas artumbauhittaw únganſh webe muche hom matta skôwah un<g ref="char:EOLhyphen"/>katak Mando achabizhêan wutche yôuh ſpe chawgunſh arrâious àchabiſſewúnganſh [ar<g ref="char:EOLhyphen"/>rambâmuks.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Nèwutche webe mohtantammin re Jehovah uttèein hanharroytaks; hom ſharehit Mandoak hom ópperrewórrantammock, quah nejek hom wówotamhittawawk rêan chawgun rio matta hom re kaddauwerèatteou hom matta toukranah weeche wame-keiztauwunganuk quah arrandoit Jehovah.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob. <hi>Webe hom matta ſhároog Màndoak: nar<g ref="char:EOLhyphen"/>raio ne paſuk negónquaſſik quah ouſſewe kerlk<g ref="char:EOLhyphen"/>wutche wame?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <pb n="13" facs="tcp:42261:7"/>
+                     <p>
+                        <hi>An.</hi> Matta, wutſhe negónne pummáy<g ref="char:EOLhyphen"/>huad pauhke mutche nágamo utſe oúſewe quo<g ref="char:EOLhyphen"/>núnguoſo [ſqónguoſo wutche matta rambátſên<g ref="char:EOLhyphen"/>no chawgun, muche matta howáne káchetam<g ref="char:EOLhyphen"/>ſenno webe wame tabbaio re nagamo hogga quah wame re aiakquiiks; quah wame aiakqui<g ref="char:EOLhyphen"/>iks rambatſ'nnétankq' chawgun nowéta matta nagámo utſe negónquaſik, quah árroukáſſo wame matta hom Jehovah.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Wutche Mándowâious pummáyaûwo<g ref="char:EOLhyphen"/>us árwenunqueſoûnganſh Jehovah nearrious ar matta hom meríttonouſh unkatágganak re auſe paſuk.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Chaugunſh yous arwenungueſounganſli<g ref="char:EOLhyphen"/>teous moutantamminouſh Jehovah webe iſe?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> Pharítchch' nen ſwanch miſhom teous míunamok únkatágganſh.</p>
+                     <p>1. Neh wame arwénunqueſoúnganſh utta<g ref="char:EOLhyphen"/>mous
+<pb n="14" facs="tcp:42261:8"/>rame ewo negónne, quah wuña ſhíauwe arh' rame negónne wajáiewunk, ten wutch ké<g ref="char:EOLhyphen"/>ſukq' quah ôhke quah wáme aiakquliks rame nejek uttúmmonúmmok nauweta châwgun warréguk uttáhéhit neh wame àrwejanúague<g ref="char:EOLhyphen"/>foúnganſh uttámous rame Jehovah wame árrou<g ref="char:EOLhyphen"/>kawâwe wajaiewunk to hodie pummáyawunk quah wurrégowunk wutche wame keíhigwus<g ref="char:EOLhyphen"/>hánnak ſachwhúngankâuwo, atta wutche wai<g ref="char:EOLhyphen"/>áiewund ſpe teou poummàiomúauk maugamous youche re neiek quah matta wunk, quah keísheous neiek tabe àttumminúmmin youche quah matta wunk, webe Jehovah matta attũmin<g ref="char:EOLhyphen"/>úmmo chawgun wutche únkatak, webe Raſh<g ref="char:EOLhyphen"/>ſhâuunk pómpemantammin nagamo ewo terre, ux nagamo utſe negauche Jehovah matta ſach<g ref="char:EOLhyphen"/>whúngankâuwo ewo milkiſſewunk wame arrôn kaſſómo hanharróytaks útteréen keſukuk quah
+<pb n="15" facs="tcp:42261:8"/>okkêak-terre ewo wéwaughtâuwunk wame arrôukaſſomo waughtâun wame aiakquiiks; padak wame ruwâuwunganſh, quah wonaumen wame reúnganſh wutche wame renouh wame mittâukuk tere, ouraiéwunk wame arrôkaſſómo ouſſewe werrego, ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ôukan wame wahwôr<g ref="char:EOLhyphen"/>regewúnganak terre wauhwérrerêat rak'que wame keishcaus-hánnak, taûterêit Jehovah wame arrôukaſſómo wampſin wame mittauk remáſſen wame ahapúmmuks, quah matta ahàntſe aû, arra rehit keizhíttiſhánnak up<g ref="char:EOLhyphen"/>pomantammewunk wame arroûkaſſomo, ewo muche Micheme, matta nenóujaaíous, qual matta éakquíno.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>3. Neh wauh wérramat Mandouh muche ſonks waûwerrehea nâgamo utſe, Wame ta<g ref="char:EOLhyphen"/>baio nâgamo utſe, matta querâubikquo áirana<g ref="char:EOLhyphen"/>namàmauetounk paíuwutche, Wutche,</p>
+                     <div n="1" type="part">
+                        <pb n="16" facs="tcp:42261:9"/>
+                        <p>1. Waughtunk wame aiakquiiks, paſſukùtte quah nàppe wawa mittâukuk terre, matta ke<g ref="char:EOLhyphen"/>ketokaûanàk terre, ſpe wame arroukawaûwunk wutche ewo Pummàyawuk.</p>
+                     </div>
+                     <div n="2" type="part">
+                        <p>2. Wórrantámmo ouſſewe narraúwe chawgun nowêta warréguk, quah aſonkkaſoùwe neh chawgun wèrrantámmo muche warreguk, rikqueque arróytak, quah wutche wárran<g ref="char:EOLhyphen"/>támmen, Wutche Jehovah ſaíoo quah wame-ar<g ref="char:EOLhyphen"/>rôukovvauwe werrégo.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Ten hom wutche korámen neh keſuk' quah ohke, quah wame aiakquiiks rame nejck out âhhe<g ref="char:EOLhyphen"/>nan noujiewunk wutche nejek pummayawunga<g ref="char:EOLhyphen"/>no wutche Jehovah?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>A.</hi> Yowh nôskonfòmo wutche chawgun àrwamacup negónne, wutche nôrramananas neh Jehovah uttahe ewo pumma yawunk na<g ref="char:EOLhyphen"/>gamo utſe, quah webe paſuk: negaûche wam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <pb n="17" facs="tcp:42261:9"/>únkatágganouſh aîakquiiks uttâh-héauk nukqút<g ref="char:EOLhyphen"/>te rame nejek hoggauwaûwo, ux rame nejek wâujaiwúngano púmmayawûngano ewóunk wutche.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Nannârwe wewâuhtâuwunk renouh mouche mouskinnaman youh, hom nattâuan<g ref="char:EOLhyphen"/>támmokq poſhſhe keizhittishannak tſáie, wékontammówunk ren hogga rame quah paquodjok, ten wame áchabehittewúnganſh ren hok, nux akkôſſiſſous àchachaberê<g ref="char:EOLhyphen"/>kataunâuous, quah oústaunauauus yous aiaiewun<g ref="char:EOLhyphen"/>ganakre, matta ſpe pépenauwantammewunk ux aſſagaſowunk wutche oùſhſhawawog, narra weeche rio wawàntammewunk neh aûſe kòkkekôudamaûetishannak quah arwe wawan<g ref="char:EOLhyphen"/>tammok renou auſinre môzſantaminau youh. Matta nawun wawantam hom roitammôan neh m'ſanſh quah p'tuks terréginſh wejammuk re,
+<pb n="18" facs="tcp:42261:10"/>héanje, ux wutche nàgámàuwo, webe neh auwun nowéta nartâuewéwhékachad [arwebé<g ref="char:EOLhyphen"/>ne] wuſtaúwus, wezſhatáuwus, quah wonappe<g ref="char:EOLhyphen"/>númnaſh-hanſh; rio, naumókq' keſukq' quah okke rio wêkekekòzzous quah rawwe wame keizhittishannak, paſuk wertáuwe unkataggan quah wame aiákquiiks wajekeiztámmakus ou<g ref="char:EOLhyphen"/>warchaniſh, newaûwun hom matta webe pak<g ref="char:EOLhyphen"/>kaddawâmen neh oúſſewe wawántam nártau<g ref="char:EOLhyphen"/>intàntak wutche mittâukuk, quah wame aiakqui<g ref="char:EOLhyphen"/>iks mittâukuk terre, qnah youh hom mutche matta únkatak webe wah wérramat Mando Je<g ref="char:EOLhyphen"/>hovah.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Wepe oùſſawadj mátcherewunganſh pa<g ref="char:EOLhyphen"/>kodje ahrèmuks mutáukuk terrè quah utteamope tànguan âu rènawauk mittàhhâuk terre moh mut<g ref="char:EOLhyphen"/>che Jehovah nègonquàſhſhâuanuſh ux waje yous matcherewunganſh wuthio?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="19" facs="tcp:42261:10"/>
+                     <p>
+                        <hi>An:</hi> Matta wutche Jehovah nàgamo utſe ſônke werrégo, mukko milkiſſowunk wutche rémuk mutche Jehovah wutchío, narra niànch<g ref="char:EOLhyphen"/>tauwunk wutche youh milkègowunk rêan màtcherénag attàmo wutche nagamauwhog<g ref="char:EOLhyphen"/>gauwâuwo. Iehovah keizhèauwus Angelok quah rènauwok wêeche mótantammewunk wutche ahrèmuk; youh matta mnmatcherè<g ref="char:EOLhyphen"/>muk, narra youh hom ſpe nagamo milkiſſe<g ref="char:EOLhyphen"/>wunk pâdah chawgun nowèta matche rèmuk moh wutche aianchtaúwunk wutche nagamaù<g ref="char:EOLhyphen"/>wo mótantammoùngano neh têakſèjek angelok eo mamatchhuadjiek quah Adam quah Eve, quah rame nejek wame renawauk matchere<g ref="char:EOLhyphen"/>wunhasnak.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Mukko Jehovah mattà waje macherewunk narra weep matta neſuog negonquaſhadjek, paſuk werrego quah wajaiunk wame werregunſh:
+<pb n="20" facs="tcp:42261:11"/>katak matchere quah negonquaſhal quah waje [wutchiámuk] mátcherewunk?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An:</hi> Matta erána, wutche hom nèſuog ríſoak pómparrerèjek negòuquagidjek yèiache hom aióutoak nèoutche aiskomhit<g ref="char:EOLhyphen"/>tawunk 'om nôskoſſômo.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Matta chawgun rio matchittoo [mat<g ref="char:EOLhyphen"/>chère] arra God nagamo utſe werrègit wutche matcherewunk mutche tupacha chawgun que<g ref="char:EOLhyphen"/>rauhikkowunk, [nouſhamòwunk] youh hom matta mutche webe rame chawgun nowêta pummay amuk, quah pummayne mutche chawgun warrêguk.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Wah wèrremat God uttâhhe wame milk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſewunk quah ſhajosſhawùganſh; mandoak èansketàmbough hókkiſſenègoak quah matchègoak, Ewo weremâttawn keſukq quah okke, quah warrpſk wame mittauk.</p>
+                     <p>
+                        <pb n="21" facs="tcp:42261:11"/>Hom kattagganak mandoak chaukik appòak?</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Q. Mukko Jehovah keiſtâunas keſukq' quah okke, quah wame aiakquiiks rame neiſh, eo wun<g ref="char:EOLhyphen"/>nagottámmin nêjek, quah matta nôuſe anambat<g ref="char:EOLhyphen"/>támmóan nairrène arra nartauôukachad nokódtuk wejo keistánkqc?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An:</hi> Matta, wutche nattauôukachad matta nouſſe ámbatammôan wejo keiztankq', matta nagum wutche, perrére, keiſtáſhan nagum wut<g ref="char:EOLhyphen"/>che yeiáche nouſſe aûwambattámmen. Rio God keiztaû was wame aiákquiikſ matta wutche kat<g ref="char:EOLhyphen"/>tak, webe nágamo wutche, quah negaùche kon<g ref="char:EOLhyphen"/>kedjhêants, quah uttoûkretâwah nañe wajé keztanguſhanſh, quah waje pakkàdows nañe, quah nouſſe perrerambanúnganſh merâuwus nanne; Poſhſhe ſpe penaûauwunk, arra réna<g ref="char:EOLhyphen"/>wauk; unkattàgganak nouſe nagamaûwo ar<g ref="char:EOLhyphen"/>run
+<pb n="22" facs="tcp:42261:12"/>arra wâuwayómuks keízheouſhan<g ref="char:EOLhyphen"/>nak; ùnkatàgganak ſpe nejek arrumbaûwous áchachabehittawúnganſh arra ront' ematſhá<g ref="char:EOLhyphen"/>mo, quah nip'p' wámtchawàſha.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>To gôuje koràmen neh Jehovah wo<g ref="char:EOLhyphen"/>kòmhuwùunk tôukretauwah wame mitt âuk?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> 1. Spe pómpemomòwunk wutche <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>í<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kquiiks taûtapókkacha uejek nàgamâuwo arrnmbaûit wutche werrégowunk wame weè<g ref="char:EOLhyphen"/>winnakómu wutchío; nenar naûménan yout ditch wômpſhámo, quah nip' wamitchche<g ref="char:EOLhyphen"/>waſhſha perrewerampaũómous aſſànum faûa<g ref="char:EOLhyphen"/>aioówunk wutche werrégowunk wame wee<g ref="char:EOLhyphen"/>wínnakommuk wutebio.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Spe arrumbaũwe nèmarrewúngan teou matta webe renauwank wawantàjek, qùut na<g ref="char:EOLhyphen"/>nak <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ppi &amp; im quah oppiſhſhauk teoùiek que<g ref="char:EOLhyphen"/>rauhikkóa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k penauwau wunk utta èauk wutche
+<pb n="23" facs="tcp:42261:12"/>neiek wunnaiànawauk: youh muche chaippaio werrégowunk muche pahke miſhnommiñau<g ref="char:EOLhyphen"/>wo [wérremuttamaûwo] Jehovah wutchio; òuſſewaié rakque wame ewo keizhittiſhan<g ref="char:EOLhyphen"/>nak mittaûkuk terre: quah auſe wutche wam<g ref="char:EOLhyphen"/>pſin wame mittaukuk quah wâutawn wame aiakquiiks, quah how nukkomme pakkadaway nanne waje kezhêants.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Jehovah toukrêtauwah kezous, nêne<g ref="char:EOLhyphen"/>pómſha quah arraxſuk quah wiguilquats keſakuk wutcheòùtambazſowúngan keizhittiſhannak sketohke, móucheke wutche ren.</p>
+                  </div>
+                  <div n="4" type="answer">
+                     <p>4. Newutche Soûdamowúnganſh wadcha<g ref="char:EOLhyphen"/>nazzous, konkeóitazzous, panquatazzous quah azxa wunua manouſh ſpe warrantammowunk wutche Mando Iehovah.</p>
+                  </div>
+                  <div n="5" type="answer">
+                     <p>5 Wutche wâme renou ſhaíous únquo<g ref="char:EOLhyphen"/>nunquatõuganak terre terranauunganak quah
+<pb n="24" facs="tcp:42261:13"/>ſiagutuſh ùtterumbauwe mauóuwok Iehovah re wutche airenamaûwetoowunk youh kokkooda<g ref="char:EOLhyphen"/>mung quêakq' neh wauhtaùwunk Iehovah wokomhuwâwunk rakque wame sketambóugh quah aíkquíiks sket-ókke rame ókkekekózzo [pòkkoddekekozzo] rame rambauwous mittaſh wutche wame ránawauk.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>To gôojt korámen neh wame nanſaìous aiàkquiiks toukretauâuk ſpe Jehovah wó<g ref="char:EOLhyphen"/>kamhuwáwunk?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> Wutche nanſaióus aíakquíiks pakkad<g ref="char:EOLhyphen"/>wandámmenuſh quah kóodemantamménuſh waje yous keiztángus Jehovah.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Wutche Jehovah wampſin wame wee<g ref="char:EOLhyphen"/>winnakómmuk, quah ewo wawantámmoówunk quah milkégowunk wame-arroukamóôak.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Waje, wame ſchiſh útteamopétángua<g ref="char:EOLhyphen"/>nau rame nanſaiamuks: quah newutche hom
+<pb n="25" facs="tcp:42261:13"/>nanſáiamuks matta wadchànàzzous ſpe Ie<g ref="char:EOLhyphen"/>hovah wókomhúwâwunk wame ſchiſh hom<g ref="char:EOLhyphen"/>ſaviouwe aiakquíyous weeche nanne.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Hom rakq; ten wutche artak neh mat<g ref="char:EOLhyphen"/>cherèwunk rio ouſſewàrrat mittaukuk terre?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An:</hi> Nux matcherèwunganſh yous ouſſewar retuſh mittaukuk terré mous kinnamaúok neh Iehovah wókomhuwáwunk toukrêtauwah wa<g ref="char:EOLhyphen"/>me aiakquíiks skejeókkeak. Newutche, neh wee che úttereúnganſh mácherewúnganóas wom<g ref="char:EOLhyphen"/>kâuoúwok, ſachwhungaukaũauk kopehomme<g ref="char:EOLhyphen"/>nuſh quah úttamkekáirouſh chaugo hom kok<g ref="char:EOLhyphen"/>koodreſhahûwauk rio ríkkaque, arra kaddawe werrantámmok pauquatauúnganak re wutche ſoûda mauwúngaſh quah aia matta paſuk hom pompemantàmmôan weeche unkataggan.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Wutche Iehovah wunna toukrêtaũwah úttereúnga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſh renou matcher<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>èwúnganóa
+<pb n="26" facs="tcp:42261:14"/>(teous tapatchch' mattaoúſſambamáuôan) au<g ref="char:EOLhyphen"/>werréganak re, nukqúudde tatággaman paſukq mámattambauit weeche kattággan, ux ta<g ref="char:EOLhyphen"/>tàggaman ewo nagamo wusketambamh wâu<g ref="char:EOLhyphen"/>wannawàhittit wutche wuſſunkkówbâuous pak<g ref="char:EOLhyphen"/>kadtawàuwúnganſh. ux kutchtâuwun wer<g ref="char:EOLhyphen"/>ramattámmewúnk tokâuaſounk quah yéia<g ref="char:EOLhyphen"/>chewunk warremattajek maſſambàujek werrit<g ref="char:EOLhyphen"/>tepantámmewúnganak terre.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Newutche mukko God túpacha matta óuſ<g ref="char:EOLhyphen"/>ſambamauóan mámattambâureatch kókkood<g ref="char:EOLhyphen"/>rewéaweghittit youh mittâukuk terre wutche quompàio; narra uttajiauche nannúppohittit, Jehovah tàtachâuwe wérrantàmmowũk bitch keiztàzzo skeje nejek, auwannak matt werran<g ref="char:EOLhyphen"/>tàmmóanau rêan Iehovah pókkotchim-mâu róvtammewunk quut mattawéwezàmmóguk ewówunk re.</p>
+                  </div>
+                  <div n="4" type="answer">
+                     <pb n="27" facs="tcp:42261:14"/>
+                     <p>4. Wutche rio Jehovah úttantanah réno<g ref="char:EOLhyphen"/>wauk útteambáttámmen tſaió wáſſimidde<g ref="char:EOLhyphen"/>wunk wutche askam poãmo nau uttákgutche youh pòmpemantàmmewunk youh terre God bitch meràh wame rennawauk nouſſe naga<g ref="char:EOLhyphen"/>máuwo wuttarkáſſoungãſh youh mittaukuk terre</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>To gôoje koràmen neh <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mittachónkawawk rènnawauk pomphmmantàmmok hoggauwo pok<g ref="char:EOLhyphen"/>kothche nuppeat', quah neh uittaehonkp' quah nihok bitch náppinnâuauk mouskeane arquabit God yow wàſſimidde wunganrk terre?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> Spemilkegówunk rambáuwe mittachoak wutchio wame rénnawauk mámmachewàhuwã nejek wérreéhittit, quah mônskiſſhàſſowan waſ<g ref="char:EOLhyphen"/>ſèmóan, quah kéiappenaſſowan nejek matche<g ref="char:EOLhyphen"/>réhittit, chówonche kiſhke núppoungano, teau kokkôadumchàmo neh áskwhontammok wáſ<g ref="char:EOLhyphen"/>ſemiddewunk yow bitch peámo.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <pb n="28" facs="tcp:42261:15"/>
+                     <p>2. Spe rambaûwe chówoutàmmewunk wutche michéme pómpemantammewunk teou útteamopetánguanau wame rènnawauk.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Spe rambâuwe róytammeũnganſh quah askwhóntámmewúnganſh, yow Eansketàm<g ref="char:EOLhyphen"/>boûgh uttâhhénau wutche pómpamantàmme<g ref="char:EOLhyphen"/>wunk perôukon ſaúanaiôuk pòkkache pómantammowúſhànnak yowh terre: nâume<g ref="char:EOLhyphen"/>nan p'tuks pabôuks antâumous werrégowunk quah ſe quoks kejámous rambe.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Ten God tôukretâſſo ren?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Spe mâugun quah negonne wûskwhon<g ref="char:EOLhyphen"/>tammen pakkàdtawâuwank re nagum, quah pakkaddawan neh arra réunawauk àttum<g ref="char:EOLhyphen"/>minúmmok youh pakkadtawâ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wunk micheme bitch pompemantammok Iehovah wóm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rre<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oúnganak terre; ux<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arra apôkeitàmhit youh nakkadtawâunk bitch miche're kôákejà
+<pb n="29" facs="tcp:42261:15"/>penáuwauk tabe ne pénauáuwe keizhittis reſtau<g ref="char:EOLhyphen"/>wun nouſe wuttézzowunk wutche God mutche rio toúkretázzo mao uk terre michéme kejan<g ref="char:EOLhyphen"/>wung anak re.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Chawgun pákkadtawáuwunk <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch God negónne wuskwhómmenas renouk? quah tokè ne<g ref="char:EOLhyphen"/>gónne wuskwhómmenas ewounk re?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Pákkadtawáuwunk negoñe wuskwhom<g ref="char:EOLhyphen"/>muk moh ne rénawauk mouche pómpem an<g ref="char:EOLhyphen"/>tamminau mouſſe Jehovah noûskíñamuk wérran támmowunk: God mouskinnamáuwus renon youh wérrantámmewunk nah rôwat, chánche<g ref="char:EOLhyphen"/>paièwe, ramaie, ſpe wuskwhontammen ewo pakkadtaúwunk rame ren uttâhhok' terre; chànche pàiewe pokôtchkaíe ſpe ránjemokân<g ref="char:EOLhyphen"/>tammen chawgun ewo werràntammen [pók<g ref="char:EOLhyphen"/>kotchaimóa] ne ren pauhke uttein, quah wúnnagattúmmen, milketâwun youh pakkadta<g ref="char:EOLhyphen"/>way
+<pb n="30" facs="tcp:42261:16"/>renouk ſpe nóremittaſſounganſh quah wezzamwauwúuganſh, quah mouchewoprêan ren wauweztàmmawúnganak re ſpe quoſetam<g ref="char:EOLhyphen"/>min wérrawâwunk.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>To hodje God ránjemokaſſis ewo ùtteoitám<g ref="char:EOLhyphen"/>measunk, quah òurantàmmewunk renouk re spe arrizzons pòkotchekaìous áhrewatchchàmuks, narraga toükr étâuwah unkatágganok keizhittiſhà<g ref="char:EOLhyphen"/>nak nouſe perrere.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Wutche ren youh pómpemantammewún<g ref="char:EOLhyphen"/>ganak terre waughtawn ſpe wauwaiowunganſh arra ſpe naumuk quah petámmuk, negowaje God útteranjemen ewo útteoitammewunk re<g ref="char:EOLhyphen"/>douk re pékotchiequiouk, chanchepalewe ſpe kéketokantammin ewo taúakok re ſpe ru<g ref="char:EOLhyphen"/>wàwunk hompetammauwo, ne ren hom petam<g ref="char:EOLhyphen"/>min quah waughtaun chanchepaiewe ſpe wuskwkoshitten ewo werrantammowunk wusk<g ref="char:EOLhyphen"/>whegannak-terre,
+<pb n="31" facs="tcp:42261:16"/>ne ren hom naumen, òk<g ref="char:EOLhyphen"/>kekkenâumen quah <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aughtaun chawgun God wèrrantammo ne ewo wâutawn quah uttèin ne hom wâuwerrehèa [chadchemo].</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Moh wérrantammowunk wutche God mouskeuázzo renunk re aiache nah quompaious ſpe wuskwhazzen wuskwhêganak terre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Yeiàche moh queràuhikkomuk ne wér<g ref="char:EOLhyphen"/>rantammowank God muche wauhtauhcwànaz renunk re ſpe kéketokàuwunk, wutche God mutche matta wúſſerawâuh-héan [wérzſhahè<g ref="char:EOLhyphen"/>an] chawgun nowéta nokómmounk ux roútaſ<g ref="char:EOLhyphen"/>ſewunk renouk wutche, webe chawgun moh nouſe ewo kèketokaúwunk, teou keketokaú<g ref="char:EOLhyphen"/>wunk mutche webe Kekráſſowunk wutche wauweztammewunk wutche rennauwauk rakque Jehovah. Webe youh kèketokaú<g ref="char:EOLhyphen"/>wunk matta wuskwhommòmuk yeiache, waje,
+<pb n="32" facs="tcp:42261:17"/>wutche Adam re Moſes, God móuskinnaſſoas ewo wérrantammewnnk ſpe kemenâumhewa<g ref="char:EOLhyphen"/>wúnganſh, úttenoquomoúnganſh, quah man— dówaiouſàttabbawâuúnganſh re akkôſſiſſoak, quah ſòenùmmis youh wutche nejek rim<g ref="char:EOLhyphen"/>ſharoauk re, ouſhi koodumauwun uttaíum, quah paſuk waughtâuhùwan quah koo— damchâawâuhhuwan kattaggan wèrrantam— mewunk wutche God tabanah màuwewhéko— muk moh bóphammine rame akkoſſiſſoak Wauweketajek.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>To hodje uttuwàuwunk God wutche ut<g ref="char:EOLhyphen"/>taj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>iche wuskwhòmmuk wuſwhèganak terre?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> Tàbanah maúwewhékomunk moh ko<g ref="char:EOLhyphen"/>kôodreſhanchh' quah noujèwus mèrramme<g ref="char:EOLhyphen"/>moûjereauſe unkôuwea, quah nanak pèrrewoy<g ref="char:EOLhyphen"/>tammeúnganſh wèrrerôutaſſeewúnganak terre kokoodreſhamewúdih' quah Jehovah ouske<g ref="char:EOLhyphen"/>tambamh
+<pb n="33" facs="tcp:42261:17"/>wejíoumekonaſnannak weeche pèrre<g ref="char:EOLhyphen"/>aiarrôtauſſejek nejek auſe núkkommehèawuſ<g ref="char:EOLhyphen"/>hánnak pérreràuweehittewúnganak re nène moh queràuhikkomuk ne Jehovah uttuwâwunk pauh<g ref="char:EOLhyphen"/>ke wusk whazzen wusk whègannak terre.</p>
+                     <p>1. Aſſannaman wúnnoytàmmewunk.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2 Nókottúmmen pèrrewoitámmewúnganſh quah pòquaúttawne werremâuwunk wutche God wutche matcherèahittawunk [àiantekóm<g ref="char:EOLhyphen"/>boûjek] wame antlewunganak terre, webe paſuk errano quah ſònkkumbâmuk kèkraſſo<g ref="char:EOLhyphen"/>wunk youh ſpe wàſſetummen werremâuwunk.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3 Milketawn wame rénnawauk youh iſ<g ref="char:EOLhyphen"/>chauunganak terre ne Jeſus Chriſt (rame auwan<g ref="char:EOLhyphen"/>he nôrremattàmmokq') youh artak kekejábùad, auwunlie terre wame króudamâuwetoûnganſh quah negonnióus ahruwâmuks wutche nekonne nôkottammâueten moh immartâuauk youh
+<pb n="34" facs="tcp:42261:18"/>wauhtàzzik fpe tophâtonquàwunk weeche yous chawgúnne wuskwhâzzit wutche ewo, skaio nòkothommâuwetoúnganak terre, quah nègowaje ne matta wunk wèzzawunk merrít<g ref="char:EOLhyphen"/>tenaz ramuk keſukq', teôuſpe neàuwun hom kedjhitchamen.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Chawgun youh wuskwheâk teounkterre yous aiakquiiks wuskwhazzous?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Youh mutche wuskwheak aſſwedámon the Bible, Jehovah wuskwheak, Jehovah attu<g ref="char:EOLhyphen"/>wauwunk, Jehovah werramauwunk, youh wèr<g ref="char:EOLhyphen"/>ramaſhſhatawn [miáſhſhatawn] pákkadtawaû<g ref="char:EOLhyphen"/>wunk, wuskwázzit ſpe Moſes, quah negnníjek ahrûajek. Quah ske nókothommâuwetounk teo<g ref="char:EOLhyphen"/>unk terre neauwun noutahhénan rematta quah ſonke móuskinnamawúnk wutche peaio kemè<g ref="char:EOLhyphen"/>wunk wutche Jeſus Chriſt.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Togooje koramen ne youh wuskwheak werre<g ref="char:EOLhyphen"/>maſhſhatawn
+<pb n="35" facs="tcp:42261:18"/>uttuwâuwunk wutche God?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>A.</hi> Newutche, máiáſhſhatawn wawantám<g ref="char:EOLhyphen"/>mowunk werréna auſe wame youh hom mìſſen<g ref="char:EOLhyphen"/>namâuwo ſpe Sáchemâuauk, [kót ta ſoodamau<g ref="char:EOLhyphen"/>ok] ux oúſſewe kókkoodamâuiek quah wawán<g ref="char:EOLhyphen"/>tejek wutche youh mittauk.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2. Wawántamhuwámo Jehovah mamúkkin<g ref="char:EOLhyphen"/>namáſſeiek michè ne keiauúnkanak re.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3. Waje negónne ruwámuks copehammâu<g ref="char:EOLhyphen"/>ous Jehovah wuskwhèakgannak terre ſonke, quah kitche kèztaunaûauuſhanſh.</p>
+                  </div>
+                  <div n="4" type="answer">
+                     <p>4. God pompio wutche quompiewunganak<g ref="char:EOLhyphen"/>re, kónkejappennachàwus poqâuwe màttekàrre<g ref="char:EOLhyphen"/>kuts nágamo wuskwhèakganſh wutche, quah máttekárrekuts wutche youhjek auwúñum wér<g ref="char:EOLhyphen"/>ramatahéwuſhánnak quah utténauwuſhánnak peántammewunk quah roûtáſſawunk wutche God, ókkekôodamàmuk youh terre.</p>
+                  </div>
+                  <div n="5" type="answer">
+                     <pb n="36" facs="tcp:42261:19"/>
+                     <p>5 Nèwutche, wame rénnawauk wame mit<g ref="char:EOLhyphen"/>taúkuk terre pókodjemóauk routaſſen God nouſe youh uttuwâwunk. Kóttaſoodamaûwauk wut<g ref="char:EOLhyphen"/>che youh mittauke úttaheauk nejek ſachwhún<g ref="char:EOLhyphen"/>ganſh. God matta outahe chawganſh.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Jehovah ùttuwâwunk moh mérritten rôu<g ref="char:EOLhyphen"/>wat, Tógôoje pókkodjemoàmo [wajái] youjek eo pómpemantámmok keſeque?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Jehovah ùttuwâwunk môuskeſhàddawn nágamo micheme quah matta áſſawúnnamòmuk wérrantámmowunk, wutche wame aiákquíiks querauhíkkomuks wérramattaûwun quah útte<g ref="char:EOLhyphen"/>nâuwun ſpe wame auwúnnum kíttechowonta— mok kejáhéan wame ántſeúnganak terre; quah newutche moh wúſkhommanaûwo neaûwun wutche nenar wutche youhjek pómpomantam<g ref="char:EOLhyphen"/>mowuſhánnak rouwat eo poôpe. <hi>Rom:</hi> 15.4: 1 <hi>Cor.</hi> 10.11. wame wunnéjannak wutche
+<pb n="37" facs="tcp:42261:19"/>nenar negonníjek oûſhewáwok Adam quah Eve. God keiztaunkq' wutche pàſakun nepuk wa<g ref="char:EOLhyphen"/>me arkêiz rènawauk wutche, Adam wutche okkéik quah Eve wutche ewo pechaûgun quah rio pàſſogun ren rikhèaus katággun, quah ne ren katak, quah ne ren katak; quah ahàntſe rikheoûſhannak, rio wame rénnauwauk arra pápechewékeiek wutche Adam wutcháppuk, wame rénnauwauk arrámbaúauk: wame ahárſo<g ref="char:EOLhyphen"/>ak hogkâuwunk kêounúnguanak, wuttaûauks, ſkeſuks, wuttoân, quah méran terre.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob: <hi>Jehovah wuſkwheâk moh mérrittonaz ùn<g ref="char:EOLhyphen"/>kátággchauk re tennéne pakkódje-moámo èanſke<g ref="char:EOLhyphen"/>tàmbough.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An:</hi> Jehovah uttawâwunk moh negonne máugamuk Jewſak re webe. <hi>Pſal.</hi> 147.19.20: <hi>Rom:</hi> 3: 2. aſkam paíaant Jeſus Chriſt God moh kònkokâñaio wame arkeis pummêan [matchêan] (nejek paaijawùnga<g ref="char:EOLhyphen"/>nak
+<pb facs="tcp:42261:20"/>terre <hi>Acts</hi> 14:16. kíttaman Ieſus Chriſt pai<g ref="char:EOLhyphen"/>ant' rénambauúnganak terre ewo moh negòntua uttuwãwunk re wame arkeîs wutche mittauk. <hi>Mat.</hi> 28.19. <hi>Acts.</hi> 17 30. nouſe negònne ruwa<g ref="char:EOLhyphen"/>muks wutche Ieſus Chriſt. <hi>Eſa.</hi> 49:6. quah wutch Gentilloãg <hi>Eſa.</hi> 65.1. Ne uttuwãwunk ne ek miſſènnamanau poſhe negonne poſhe utta a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>che</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Ob <hi>Hom éa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſke. â nbough miſſinnamanau Iehovah wuſkwh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>âk [ittuwãwunk] matta youh bitch mam<g ref="char:EOLhyphen"/>mo ân hokkréztawâuwunk quah pâu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſoùnganſh wutche Sachemãu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uk, quah motántámmewunk èan<g ref="char:EOLhyphen"/>ſketambough?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Moh mutche matta erano. Nux youh mutche chàraque arrôuſha hokkrèztawauwunk quah paûaſowunk Sachemauauk. <hi>Pro.</hi> 8 15 to 20: Cap 22.4. Spe womarromóu k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> quah wez<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rrakounk wutche God paûaſounk h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k<g ref="char:EOLhyphen"/>krézta
+<pb n="39" facs="tcp:42261:20"/>wâuwunk, quah ke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>âuunk, quah youh bitch arrôuſha mòtantámmewúnganſh éanſke<g ref="char:EOLhyphen"/>támbough, Spe motántáhùwan nejek wutche miſneghittewunk mátcherêwunk quah mamat<g ref="char:EOLhyphen"/>chhúâdjek wutchío.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <p>NEzzeſhítta chippío ókkekôodemúnganau<g ref="char:EOLhyphen"/>ans ſpe wuſkwheganſh wutche God màndo<g ref="char:EOLhyphen"/>waíous wérramauwúnganſh querâuhíkkomuks re michéme kejàhíttewunk.</p>
+               <div type="question">
+                  <p>Q. <hi>Chaûket attàmo ſketámbough wóweríewunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Matta pómpawoytàmmowûnganak terre, matta ſhajoſſhewúngànak terre wutche youh mittâuk.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>To hódje?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Wajé kókkejauúngan taíoquíah, neaû<g ref="char:EOLhyphen"/>wun hom webe n'tahénan yous nàmach. <hi>Jam.</hi> 4:14: <hi>Luk:</hi> 12:19: <hi>Pſal.</hi> 49.11: 12. 2 Yous aiakquíiks matta hom kàttabrawâhíkko<g ref="char:EOLhyphen"/>nànanſh
+<pb facs="tcp:42261:21"/>eo ſakkepómpomàntammokq', matta kowéjauúngan nuppôan. [ahqueſkétamb miten]</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Ten artah néne miſſin wówerriewunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Renna wówer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>íewunk artah wadchañam<g ref="char:EOLhyphen"/>âuúnganak terre wutche Iehovah narrâuwe wó<g ref="char:EOLhyphen"/>marretewunk ſpe Ieſus Chriſt, árchewontàmmuk warréguk, têou howan nowêta hom natchkok ux umſkómmen.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Iohóje?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> waje youh wómarretounk attab wutche michême quah michemewúnganak re, matta eak<g ref="char:EOLhyphen"/>quíno. <hi>Jer.</hi> 31.3. 2 Wuña narraûwe <hi>Hoſ.</hi> 14.4. 3 Wame wómar<g ref="char:EOLhyphen"/>retoúnganſh arche mêſi. <hi>Joh.</hi> 3: 16. 4 A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chetà<g ref="char:EOLhyphen"/>brawahíkkomuk. <hi>Pſal.</hi> 63.3.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Ten terre Jehovah arche wâughhew âwun Sketàmboughre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Uttúwawúnganak terre teou moûſke<g ref="char:EOLhyphen"/>ſhaddawn
+<pb facs="tcp:42261:21"/>rénnâwauk; chawgun pâhke petâh<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nah, wârramattâmmanah, quah útteeínah ne ne ek hom wôſſera wahénah God pómantâm<g ref="char:EOLhyphen"/>minah ewounkre nux pómpamantâminah miche<g ref="char:EOLhyphen"/>me weêche ewo. <hi>Rom.</hi> 10.8, 9, 11.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Howan God?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> God Raſhſhâuwunk micheme wame<g ref="char:EOLhyphen"/>waughhèan, wame naûmen arwe-kíttamanchâſko arwe ſunkkúmbaugh wutchío nagum hogga, quah wutche nagum hogga. <hi>Ex.</hi> 34.6, 7. <hi>Ex.</hi> 3.14.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chóſſoak mándoak?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Webe paſuk waugh wèrramat God rame ſwe perſonôag ſwenâpſſha pâſuk, ouſh, wôamón, quah peaió Raſhaûonk. <hi>Mat.</hi> 28.19. nenar rame ren wòrrantámmewunk waughtaû<g ref="char:EOLhyphen"/>wunk quah mèmequantammewunk yows ſwe, narra webe paſuk ren: Rio mandoôwúnganak terre, ſwe perſonôag, narra webe paſuk God.
+<pb n="42" facs="tcp:42261:22"/>Youth arwejanúnquat peaiò keonèwunk, teou Jehovah bitch kôodremóuskenàſſo re oúsketám<g ref="char:EOLhyphen"/>bamh takque youh, quah rame aûſſeqnámuk etántèrre.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun waugh wèrramat Mandoh kekez<g ref="char:EOLhyphen"/>tàngus wutche ke?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> God nekezhuíggus, ewo nènowadchàn<g ref="char:EOLhyphen"/>nakq' quah ewo hóm nénokedi huikq'. <hi>Pſa.</hi> 119.73. <hi>Pſal.</hi> 121.4, <hi>to</hi> 9. <hi>Eſay</hi> 63.1.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Ten God kéteoushíkquenas?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Rame negónne neghíkqueoúshânnak pè<g ref="char:EOLhyphen"/>rambaûhuiggus, quah ſonkkómboûhuiggus quah rizzo nagum hogga waûhtauwúnganak terre, <hi>Gen.</hi> 1.26.27 <hi>Ecl.</hi> 7.29.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Kinſpe nègamus pêrámbaugh quah Sônk<g ref="char:EOLhyphen"/>kómbough.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Matta negónne nouſha matcheréoùſhan quah nentéramopetángun. <hi>Eſ.</hi> 43.27. <hi>Ro.</hi> 5.19.
+<pb facs="tcp:42261:22"/>God wuſhéawus Adam negónne ren tupacha wuttchòppuk wutche wame rénnauwáuk quah meáwus Adam, quah ewóunk terre wame rēnou wame waugh worrég<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>x a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>akquíiks. chawgun Adam miſſínnamanis waske keiz héant God, mattax nagum webe wntche miſſinnamónis, we<g ref="char:EOLhyphen"/>che nagum ſketambough mutche wame miſſin<g ref="char:EOLhyphen"/>namanauwuſhannak: quah chawgun tantâuanuſh antâuanuſh matta nagum wutche webe, wame tàntauanâuwuſh rènnauwauk ewounk terre chawgun Adam arretch netátuppe wame rèn<g ref="char:EOLhyphen"/>nawauk wúttenâuaus; ewo màtcheréwus newut<g ref="char:EOLhyphen"/>che wame màtcherèouſhànnak.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Queſt. <hi>Keko nêgamus mámatcherêt?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſw.</hi> Spe wámpaquàanas màmattàmbauwún<g ref="char:EOLhyphen"/>ganak terre, quah ſpe négamus màtcherewùn<g ref="char:EOLhyphen"/>ganak terre, <hi>Pſal.</hi> 51.5. quah rio ſpe nêen te<g ref="char:EOLhyphen"/>rámbâuwunk netátup matchenúnquoſo matche<g ref="char:EOLhyphen"/>múnguoſo
+<pb n="44" facs="tcp:42261:23"/>múnguoſo keizhêak quah nehoggok wutche no<g ref="char:EOLhyphen"/>matcherèwunk chiſhánttammuk re Jehovah.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun kinſpe neg-mátcherewunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An</hi> Matcheréwunk wutche Adam nummía<g ref="char:EOLhyphen"/>namâuhíkquemuk, quah mâtcherambauwunk uttéamopetángun. <hi>Ro.</hi> 5.12, 12.14. <hi>Eph.</hi> 2.12</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun Adam matcherèwunk kummia<g ref="char:EOLhyphen"/>nam âuhik quemuk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Meêtſin quótetemúggus p'tuk wutchío.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun komátcherambâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Nomátcherambâuwunk ſauaióo wutche werritta pantám mo wunk, upſſquâuwemo mât<g ref="char:EOLhyphen"/>cherénag re webe mâtcherewunganak re, quah ne yeíache. <hi>Ro.</hi> 7.7, &amp; 18, verſe. <hi>Gen.</hi> 6.5. matta keizhêak sketôkkêak outahhe rio mâhmè huwamuk rambaûwunk arra wame rennawauk uttahèauk.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun matcherewunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="45" facs="tcp:42261:23"/>
+                     <p>
+                        <hi>A.</hi> Matcherèwunk pôakquínnamounk wut<g ref="char:EOLhyphen"/>che Jehovah pakkadtawâuauwúngaſh 1 <hi>Ioh.</hi> 3.4.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Choſſhinch Attak pakkadtawâuauwünganſh?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Paíaguotuſh. <hi>Deut:</hi> 4.13.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun negónſhik Pakkadtawanwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Matta bitch komandómo únkatagganok mandoak webe Ne. <hi>Exod.</hi> 20.3.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Tah ruámo youh Pakkadtawâuwunk?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>
+                        <hi>An.</hi> Ne neâuwun pâhke ketérrôutauwaûmen webe wérramat God. <hi>Mat.</hi> 4.10. Jehovah webe-waugh wérramat God, matta únk<g ref="char:EOLhyphen"/>atá ganok mándóaog, mándóaog, wutche ókke<g ref="char:EOLhyphen"/>ajwauhtammejek mamatchhuwadjek quah re<g ref="char:EOLhyphen"/>nou-nanſchadjek.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>
+                        <hi>An. Chawgun neztâuſhik pàkkadtawâuwunk;</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>
+                        <hi>A.</hi> Matta bitch kouſhèa miſ-ſeânwuskwhôſ<g ref="char:EOLhyphen"/>ſen tuppacha mandôuh keunk re, ux neárrak wutche chawgun nowèta, teou kèſukkuk skeje
+<pb n="46" facs="tcp:42261:24"/>terre, ux okke ramùk terre: ux nippe ramuk okke terre. Matta kekûpſquâwuſh wamaíouk kehok re nejek, matta ke bitch tàrroukàſſomah nejek: wutche ne Jehovah ke God mouſſit-chamo [à<g ref="char:EOLhyphen"/>harrachàmitch] God, aharroûtant matcheréwunk kouſhwàwok wutchio skeje wónnajánnawauk [múkkràauk] re-ſwot quah youwot antſèwunk wutche nejek chìſhſharamoquéanak ne: quah kittemanchèrachan re màmattinúngueſóak wut<g ref="char:EOLhyphen"/>che nejek wômarrequeanak ne quah wadchân<g ref="char:EOLhyphen"/>jek ne Pàkkadtawauàuúnganſh. <hi>Exod.</hi> 20.4, 5. <hi>Joh.</hi> 4.24. <hi>Lev.</hi> 25.1. <hi>Ezek.</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.17.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Tah ruwàmo youh Pakkadtawauauwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Ne neauwun pahke nókkommoukaûwun wauhwerrámat God weeche wérramamuk nòk<g ref="char:EOLhyphen"/>kommowunk, nenar God pàkkadaſówamoas [pakkaddawanas] matta nenar renou arroytamhit. <hi>John.</hi> 4.24. <hi>Deut.</hi> 12.32. <hi>Mat.</hi> 15.9.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <pb n="47" facs="tcp:42261:24"/>
+                  <p>Qu. <hi>Chawgun naſhwe Pakkadtawâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Matta ke bitch miſhómmôan tah-noôche wézzawunk Jehovah ko mandouh: wutche Je<g ref="char:EOLhyphen"/>hovah matta bitch wuſſomóôan parrewauhhuwa ouwannouwéta mammo nagamo wézzewunk tah-noôche.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Tah ruwamo youh wèzzewũk wutche ke God?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> God nagum, quah waughwauwerrégix aíakquíiks wutche God, teouſpe God wauhhéa nétatup ren waughéa ſpe nagomo wézzewunk nenar úttarwejanúngueſoúnganſh nokkómmo— wunk, uttuwâuwunk quah wúttarkaſſowunganſl 1 <hi>King.</hi> 9.3. <hi>Pſal.</hi> 138.2. <hi>Job.</hi> 1.21</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun ruwãmo youh matta bitch kom— ammeân ewo wezzewunk tahnoôche?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Ne wame rénnauwauk pahke ruwaûauk wutche God nagum, quah waúwerrégix aiak<g ref="char:EOLhyphen"/>quíiks wutche God, wutche úttarweſanúngueſó<g ref="char:EOLhyphen"/>unk
+<pb n="48" facs="tcp:42261:25"/>unk quah wutche nejek wórregaúngano, matta tahnoôche; matta uksſchauwe, matta uttam<g ref="char:EOLhyphen"/>baſioúngane, 2 <hi>King:</hi> 1: 3: <hi>Levit:</hi> 10: 3<g ref="char:punc">▪</g> 
+                        <hi>Job:</hi> 36. <hi>Deut.</hi> 8.18: <hi>Jer.</hi> 2.30. <hi>Levit.</hi> 26.2: <hi>Heb:</hi> 4: 2:</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun youhwe pákkadtawàwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> kómmeqúantuſh nókkommowunk, [ke<g ref="char:EOLhyphen"/>weenâuwunk] wauwertaúun, [perrtâuun] nũk<g ref="char:EOLhyphen"/>kuddaſkſhe kéſequaûwe katarkas, quah keîzta<g ref="char:EOLhyphen"/>us wame kàtarkàſſounganſh: webe nezenſe ſhúgane mutche nokkommounk wutche Iehovah ke God youh ſhùganeterre akqueriſhq' chaw<g ref="char:EOLhyphen"/>gun noweta arkaſſowunk, ke matta-kenâumô<g ref="char:EOLhyphen"/>an, matta kattane kowadjan-ren, matta nanno<g ref="char:EOLhyphen"/>ôtenukſqua, matta kekopompetùnganak matta ke pecouchauk rame ke ſquonta wutche rame nuk<g ref="char:EOLhyphen"/>kuddàſkſhe kéſequauwe Iehovah keiztâunas keſukq', quah okke, kathannabâug quah wame arakquíiks rame nejek appôop, quah akquarkaz<g ref="char:EOLhyphen"/>ſons
+<pb n="49" facs="tcp:42261:25"/>[wûwuſínnawus] nezzenſe ſhugane: ne<g ref="char:EOLhyphen"/>wutche Iehovah uttchadchimmóas nokkommo<g ref="char:EOLhyphen"/>wunk, quah peirtãwanas ewo. <hi>Ex.</hi> 20.8, 9, 10 11. <hi>Eſa.</hi> 58.13. <hi>Ne.</hi> 13.16, 17.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Tah ruwámo youh pákkattawâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Ne wame pahke wúusíunamanah wut<g ref="char:EOLhyphen"/>che arkaſſounk quah auſe wutche mòmarrawas<g ref="char:EOLhyphen"/>ſowank rame Iehovah kéſekut, ne neaûwun hom notânchemen re God rame wauwerrègix arkaſ<g ref="char:EOLhyphen"/>ſoúnganſh. <hi>Eſa.</hi> 58.12, 13. <hi>Jam.</hi> 4.8.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun nàppachôſſit pàkkadtawâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Hokkreztâus [konkreztaus] kouſh quah kenoûnunk ne kokonkeſeketuſh hom quonaious ſkeje okkeik teou Iehovah ke God kummèquun. <hi>Exod.</hi> 20.12.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Auwánnak àſſwerauk kouſh quah kenóununk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Wame tòukrètaſſejek ten chíppakòm<g ref="char:EOLhyphen"/>mûkutchaug, tahatterre kôodammochâwunk ra<g ref="char:EOLhyphen"/>me maûwewhèkomunk nux aſoûdummauwúng<g ref="char:EOLhyphen"/>anak
+<pb n="50" facs="tcp:42261:26"/>terre 2 <hi>Chro.</hi> 29.18. <hi>Pro:</hi> 23.22. 1 <hi>Kin.</hi> 5.13</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun kokkrezt âuotounkre toukret aſſejek?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Wawhúngachamuk waûweztàmmewũk quah [ne tabaſean] rambe maugawunk newutche <hi>Gen.</hi> 4.20, 21. <hi>Mal.</hi> 1.6. <hi>Heb.</hi> 12.9 <hi>Eph:</hi> 6.1.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun akkòmmedj choſſit pakkadtawau<g ref="char:EOLhyphen"/>auwunk?</hi>
+                  </p>
+                  <p>Q. <hi>Tah ruwamo youh pakkadt awâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Ne neaûwun pahke matta taíuquetauóu<g ref="char:EOLhyphen"/>nan pòmpemantàmmewunk ux aſſummaſſowunk wutche neaûwun hogganànak ux unkatagganak webe konkedjtâunan neſe. <hi>Mat.</hi> 5.22. 2 <hi>Cor.</hi> 7.10. <hi>Mark.</hi> 3.4. 1 <hi>Sam.</hi> 26.20.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun neſauſuk pakkadtawauauwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Matta komammôſo. <hi>Ex.</hi> 20.14. <hi>Gon.</hi> 9 10. <hi>Levit.</hi> 18.24.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Chawgun matcherewunk youh quoteten?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="51" facs="tcp:42261:26"/>
+                     <p>
+                        <hi>A:</hi> Matchtawn hógganának, ux únkatág<g ref="char:EOLhyphen"/>ganak weeche wápaſquâwe chíſſhegewúnganſh</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun youh pákkadchimmeden?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Míanumbâuunk, konkſanttawn neauwun hogganának peaiówunganak quah hókkrez<g ref="char:EOLhyphen"/>tauetoúuganak terre. <hi>Titus.</hi> 2.5. 1 <hi>Pet.</hi> 3.2. 1 <hi>Theſ.</hi> 4.4, 4.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun ſwankſhit pákkadtawauàuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Matta kommôotakon [matta kekommôo<g ref="char:EOLhyphen"/>to] <hi>Exod.</hi> 20.15</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawguukommôotewunk youh quotéten?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A:</hi> Mamman únkatak ren mámachiſe, ma<g ref="char:EOLhyphen"/>ta waughtauôukq', matta maugaûkq', ux ókke<g ref="char:EOLhyphen"/>tawn kòmammachìnanſh matta wutche kótam<g ref="char:EOLhyphen"/>báſiooiananſh, ux únkatãgganak ótambáſioná<g ref="char:EOLhyphen"/>nâuuſh. <hi>Luk.</hi> 19, 8. 1 <hi>Theſ.</hi> 4, 6. <hi>Pro.</hi> 21, 20. Netátup mámttambáujek éanſketambaugh ók<g ref="char:EOLhyphen"/>ketáwnau mamatteînch nôotch-ſquahahíttit
+<pb n="52" facs="tcp:42261:27"/>quah ókkezhíttit:</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>twgun youh pákkadchimmeden?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Waûwerre meſínnaman nómamachínãſh wauwérre wádchanaman quah wauwérre aínas youſh: <hi>Pro,</hi> 13.11. <hi>John,</hi> 6.12. <hi>Luke,</hi> 19.16.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun páſakogunſhe pákkadtawauau<g ref="char:EOLhyphen"/>wunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Matta ketaíantekí aw aúghua kechánche<g ref="char:EOLhyphen"/>támmuk re. <hi>Exod:</hi> 20 16:</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun mátcheréwunk youh quotéten?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Okkejâuskin aîantekámpâuwe, roytám<g ref="char:EOLhyphen"/>min nux ruwan chawgun matta wérramamó<g ref="char:EOLhyphen"/>muk wutche neaûwun ux únkatágganok. <hi>Eph.</hi> 4.25. <hi>Jer:</hi> 9.4, 5. <hi>Joſhu:</hi> 9.22. <hi>Pro.</hi> 13.7.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun youh pakkádchímmeden?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Werramáwunk quah mutchiſúnkombane [ſónkkombauunk] <hi>Eph:</hi> 4.25. <hi>Mat:</hi> 23.23.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun paíak ſhe pákkadtawauâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="53" facs="tcp:42261:27"/>
+                     <p>
+                        <hi>A.</hi> Ahque kíttechowontámmis tahnôoche week wutche kechánchetámmuk, ahque kette<g ref="char:EOLhyphen"/>chowontámmis werógen wutche kechánchetam<g ref="char:EOLhyphen"/>muk, matta ewo wajan-ren matta waian-ſquah, matta wutóximoh, matta wutáſſimoh, matta chawgun noweta wutche kítchâme <hi>Ex.</hi> 20 17</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun káttauachóſſowáwunk youh qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>téten?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Káttauachówáwunk wutche únkatak ren mámachiſe: quah queraûhíkkowunk wutche tatábrawahíttewunk weeche néaûwun nómama<g ref="char:EOLhyphen"/>chínanſh. <hi>Heb.</hi> 13.4. <hi>Ro.</hi> 7.7</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Nammuk pahkojé kattabrerèanas wame neiſh pákkadtawa âuwunganſh?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Matta, ne quah wame rénnawauk má<g ref="char:EOLhyphen"/>matcherêjek. <hi>Ro.</hi> 7.14. <hi>Ro.</hi> 3.23.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgunhe ùnquat âuwetounk wutche mat<g ref="char:EOLhyphen"/>cher éwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb facs="tcp:42261:28"/>
+                     <p>
+                        <hi>Anſ:</hi> Nuppóunk quah michéme konkejáp<g ref="char:EOLhyphen"/>penaûwunk. <hi>Rom.</hi> 6.23. &amp; 2.8, 9.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Tennène koſámbattámen kejahean?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Webe ſpe Jeſus Chriſt.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Auwùnnah áſſowe Jeſus Christ?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>A. <hi>Michéme wonnéjon wutche God auwun wutche neaûwun hogganának moh reuôowus, ne ewo hom mánnôhikquenan quah kéjahíkquenan.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Tunre Jeſus Chriſt manuôhikquenan quah kejâhikquenan?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Spe nágamo ſonkkómbough kejâwunk quah weſekun nuppówunk quah àrwenunguat rambe ompkêwunk wunk kejaûwûnganak re. <hi>gal:</hi> 4.4. <hi>Mat:</hi> 5 20, 28. <hi>Pſal:</hi> 2.7, 8. <hi>Rom.</hi> 4.25.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q: <hi>Tun gooje ko<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>âhean chánchepauwuuk, quah chanchìawunk weeche Jeſus Chriſt rame ewo nup<g ref="char:EOLhyphen"/>póunk quah ewo rambe ómpkewùnganak terre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Spe milkégowunk wu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>che ewo kéka<g ref="char:EOLhyphen"/>tokaûwunk
+<pb n="55" facs="tcp:42261:28"/>quah Raſhâuwunk, youh paſſoûhik<g ref="char:EOLhyphen"/>quenan re Jeſus Chriſt, quah quowâdchanhikque<g ref="char:EOLhyphen"/>nan rame ewunk terre. <hi>Joh:</hi> 17.20. 1 <hi>Cor.</hi> 6.17.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun nágamo kékatochâuwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Peaíous wuſkwhéganſh Iehovah wusk<g ref="char:EOLhyphen"/>whâzzous ſpe negónnoíjek âbruwâjek wutche ewo uttuwauwunk aſſwérauk Prophetts &amp; apoſtles, nâhnekónne quah wuſkí Nókothommâuèten, pakkadtawauaûwunk quah wérranjemokauwe<g ref="char:EOLhyphen"/>ten. 2 <hi>Tim.</hi> 3.15, 16.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Queſt. <hi>Tenre attabawâuwunk wutche pakkad<g ref="char:EOLhyphen"/>tawauâuwunk kepazôuhikqun rakque Jeſus Chriſt?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Arra nopazôuhikqun waughhean no<g ref="char:EOLhyphen"/>matcheréwunk quah wezkéſowunk wutche God ne rakque ne wutche. <hi>Rom.</hi> 7.9.10.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Tenre waught âuwunk wutche komàtcheré<g ref="char:EOLhyphen"/>wunk kopazôuhikqun rakque Jeſus Christ?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Youh ſpe ne nopé mequìnneman ne
+<pb facs="tcp:42261:29"/>nânnapúmmuk arrachoſſewâwunk, quah que<g ref="char:EOLhyphen"/>râubíkkowunk wutche kékejahuad. <hi>Gal</hi> 3.10.24.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Queſt. <hi>Ten re attabbow âwunk wutche werran<g ref="char:EOLhyphen"/>jemok âuweten ketàtnamungqun rame youh tattaai<g ref="char:EOLhyphen"/>nuppooiret âmmuk arrachóſſewâwunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Womârrun híkqun nar auſe, quah néne tomkêhíkqun wutche youh kónkejappenamuk arrachoſſewâwunk. <hi>Luk.</hi> 3.4, 5, 6.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Ten re kokkôudumchâuwunk wutche wér<g ref="char:EOLhyphen"/>ranjemok âuweten kowómarrumhikqun wunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>A. Spe môuskínnamowunk wutche nar<g ref="char:EOLhyphen"/>rauwe wòmarretoúnk wutche Jeſus Chriſt 2 <hi>Tim:</hi> 11.10. Waje nuppóus kejahèan mamat<g ref="char:EOLhyphen"/>cheréjek: <hi>Ioh.</hi> 16.7, 8.6.44. Quah narra nowau<g ref="char:EOLhyphen"/>taúhikqun wutche nomatcheréwunk, waje matta nenôſtammôan ſkejé ewo, quah michéme nó<g ref="char:EOLhyphen"/>monúnqueſówunk peaûwun ewounk re; <hi>Luke.</hi> 19.10. Quah <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ió nenon equínnaman ne hok mi<g ref="char:EOLhyphen"/>chéme
+<pb n="57" facs="tcp:42261:29"/>tanhich.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Q. Ten néne kokkôuáum<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>âuwunk wutche werr anjemokâuwunk kótantamtamhikqun wutche youh anhémuk árrechoſſewawunk pean re Jeſus Chriſt?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Nenar nekokkoôdummohikqun raû<g ref="char:EOLhyphen"/>weto quah milkeſewunk wutche nuppówunk wutche Jeſus Chriſt, quah pâuaſoúnganſh wutche ewo narrauwe wómârretowúnkre anhéjek ma<g ref="char:EOLhyphen"/>macheréjek <hi>Joh.</hi> 12.32. 2 <hi>Cor:</hi> 5:19, 20. môu<g ref="char:EOLhyphen"/>ſkeſhaddawn kroûdemâuwetowúnk wutche werríttepantammewunk re youjek, quah merâh peaio raſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>âuwunk wutche wérrettepantamme<g ref="char:EOLhyphen"/>wunk miſſínnamaw âuhuwan Ieſus Chriſt, quah nagamo kroûdan auwetounk wutche werrette<g ref="char:EOLhyphen"/>pantammewunk re nêan hok, quah nowad<g ref="char:EOLhyphen"/>janhikqun rame nagum. 2 <hi>Pet:</hi> 3.18. <hi>Luke</hi> 19. 10, <hi>Mat:</hi> 9, 13. <hi>Gal.</hi> 3.5. <hi>Ro.</hi> 10.17. <hi>with</hi> 1.16.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:42261:30"/>
+                  <p>Qu. <hi>Ten re peaéo Raſhâuwunk wutche wérrit<g ref="char:EOLhyphen"/>tepantámmewunk kùtamauhikqun quah pazôu<g ref="char:EOLhyphen"/>bikqun re Jeſus Christ, quah miſſinnamahikqun nâgamo krôudamauwétounk, quah kowadchanhik<g ref="char:EOLhyphen"/>qun ewounk terre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Sperikhéan [tikhéan] rame ne wár<g ref="char:EOLhyphen"/>emattámméwunk àttummanah ewo: <hi>Ro:</hi> 10. 17.10.14. <hi>Zec:</hi> 12.10. Attabbowawunk wewhékum ſkeje ewo: amban<g ref="char:EOLhyphen"/>toetammewunk môuwun rakque ewo, quah w'ſkio weztammewunk kretammin ewo. <hi>Ro.</hi> 16.25.26 2. <hi>Cor.</hi> 10.4, 5.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun atta Warremattammewunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Warremattammewunk arta wenrrittepã<g ref="char:EOLhyphen"/>tammewunk wutche peaîo Raſhâuwunk; <hi>Phil:</hi> 1.29. 2 <hi>Cor.</hi> 2 4.12. Nahwutche hôkkeje<g ref="char:EOLhyphen"/>waûghtam ne hok quah warremattam ſkeje Ieſus Chriſt wutche ſunkkómbaûwunk quah micheme kejâuwunk;</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:42261:30"/>
+                  <p>Queſt. <hi>Chawgun attâbawawunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Attâbowawunk wewhékechaúmewa<g ref="char:EOLhyphen"/>wunk wuſkéje God rame wézewunk wutche Ie<g ref="char:EOLhyphen"/>ſus Chriſt ſpe aínamaûetowunk wutche peaío Raſhaûunk nouſſe útteoitammewunk wutche God. <hi>Mat.</hi> 6 9. <hi>Ioh.</hi> 16.23. <hi>Ro.</hi> 8.26, 27. <hi>Joh</hi> I</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Ten Jeſus Chriſt kokoodumchauwas ewe nannawunnakuts attaboan?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſw.</hi> Rio.</p>
+                     <p>Noûſhin aûſequamuk terre wérrettepan<g ref="char:EOLhyphen"/>tàmmunatch [wòweztâuonatch] kowéſewunk Pèamoutch' kúkkuſſootúmmowunk, kòrantàm<g ref="char:EOLhyphen"/>mowunk neratch sket'ôkke nenar âuſe quamuk terre, Mèſonah éa kèſuk kónkeſekatuſh no<g ref="char:EOLhyphen"/>méetſounk, [petúkkenêag] Akquantamínah nomàtchereúngananſh nenar tàkquantaminan ewojek nomàtchereh éaqueàguk, Aſquonſàkkon<g ref="char:EOLhyphen"/>gonan
+<pb n="60" facs="tcp:42261:31"/>rame-re mítchchemôuretounk, webe kûppoquohwhèriggamínah wutche madjk' wut<g ref="char:EOLhyphen"/>che kèkatah kètaſſootómoonk, quah milkèſſo<g ref="char:EOLhyphen"/>wunk quah àíttarwejanúngueſówunk michème quah michème: Ne râtch.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Chawgun Ambantoietammewunk!</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Ambantoiètàmmewunk wèrrittepantam<g ref="char:EOLhyphen"/>mewunk wutche peaió Raſhâuunk nah wutche ne nezkòntum nomàtcherewúnganſh quah nez<g ref="char:EOLhyphen"/>kàrraman m'hok yous wutche, quah nòrremâ<g ref="char:EOLhyphen"/>hitch nèiſh árquabit Jehovah, quah nomâu<g ref="char:EOLhyphen"/>wetepaz nouſe Jeſus Chriſt wutche akquante<g ref="char:EOLhyphen"/>màueten wutche nêiſh, quah wutche wèrrittepan<g ref="char:EOLhyphen"/>tàmmewunk wùttuſomôàn rame skìawunk wutche kejâuwunk. <hi>Acts</hi> 5.31. <hi>John</hi> 24.20. <hi>Levit.</hi> 26.40, 41. <hi>Pro.</hi> 28.13.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu. <hi>Chawgun youh wuskio kejâuwunk, ux wâweztàmmewunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="61" facs="tcp:42261:31"/>
+                     <p>
+                        <hi>A.</hi> Wuskèawunk wutche kejâuwunk arta wèrrettepantàmmewunk pęaiò Raſhâuwunk nah wutche nenogottúmmonuſh ne negònne chachiſhſeúnganſh, quah akôuwa chanchi<g ref="char:EOLhyphen"/>awunk, quah pummèan arquabe Jehovah rame wequàai wutche ewo uttuwâwunk, quah wâu<g ref="char:EOLhyphen"/>wèrrechànchìawúnganak terre wutche paperríſ<g ref="char:EOLhyphen"/>ſejek. <hi>Pſal.</hi> 51.1, 2.30. <hi>Rom:</hi> 7.6. 1 <hi>Pet:</hi> 4.2, 3, 4 Pſal. 116.9.119.9. Pſal. 119.105.1, 15. Pſal. 16.3.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun waùwerrechanchi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wunk wutche paperríſſejek?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uwerrechànchiawunk wutche mâu<g ref="char:EOLhyphen"/>wewhèkomúnk Raſhâuwàndowe wàuwerèga<g ref="char:EOLhyphen"/>nak terre, wutche wèrrawâuunk wutche wèr<g ref="char:EOLhyphen"/>rittapantammowunk, quah wôhpretàmmowún<g ref="char:EOLhyphen"/>ganſh youh wutchio. 1 <hi>Cor:</hi> 1.2. <hi>Phil:</hi> 1.5. <hi>Act</hi> 2.47. <hi>Rom:</hi> 9.4 1 <hi>Cor:</hi> 12.13.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun mâuwewhékomuk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Màuwêwunk wutche paperíſſeiek waû<g ref="char:EOLhyphen"/>weioſſemuk
+<pb n="62" facs="tcp:42261:32"/>nappe rame wôhpretewunk wutche wetampaddawunk, routaſſen Iehovah quah kókkekóodamàuwetúmmen rame wame ewo werréganak pakkadtawauwúnganak terre. <hi>Pſal.</hi> 89 5. <hi>Pſ.</hi> 50.5.16. <hi>Ezek.</hi> 20.37. <hi>Act.</hi> 2.42. 1 <hi>Cor</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q, <hi>Chawgun wôprétounk wutche wetampad<g ref="char:EOLhyphen"/>dewunk rame youh Mauwéwhékonunk wâu<g ref="char:EOLhyphen"/>wejaſsemuk nappe?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Wárremahittewunk wutche youh wètam<g ref="char:EOLhyphen"/>pàddewunk teou God keiztâunas wêeche ewo ſunkòmbâueritch sketàmbâmh ne ewo bitch omando Jehovah re nej k quah re nejek antſè<g ref="char:EOLhyphen"/>jek. ez <hi>Cor:</hi> 8: 5 <hi>&amp;</hi> 9: 13 <hi>Gen:</hi> 17: 7</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q: <hi>Re chawgun Jehovah wôpréant wüketam<g ref="char:EOLhyphen"/>bàmh rame youh wétampaddawùnganak terre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſw:</hi> Mâuganau hoggaûouſh quah neiek antſèiek, negonne re Jehovah ne hom neiek ewo wòsketambamanak, <hi>Ioſh:</hi> 24.15, 21, 24, 25
+<pb n="63" facs="tcp:42261:32"/>quah nène tôukretàſſeiek re quah memattid<g ref="char:EOLhyphen"/>dewôak wutche mâuwewhèkomunk negonſhid<g ref="char:EOLhyphen"/>dawn roútauaúwunk wutche God quah neiek kòkkokôudemàuetúmmechâwunk: <hi>Nehe.</hi> 9.38</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Ten mauganau neiek hóggauwauwo quah neiek antſeiek re Jehovah?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>An.</hi> Spe àttummemìmmewunk ſpe wàrre<g ref="char:EOLhyphen"/>mattàmmewunk Jehovah <hi>Iohn</hi> 1.12. quah e<g ref="char:EOLhyphen"/>wo watàmpàddewunk, re hoggaûauk quah neiek tànſeúnganak re <hi>Gen:</hi> 17.9, 10. quah nè<g ref="char:EOLhyphen"/>nar wótterainaínauh hoggâuwo, <hi>Iſay</hi> 56.6, 7 quah koûdamâuòak omúkkràmuk màiawún<g ref="char:EOLhyphen"/>ganak terre wutche ewo wetámpàdewunk. <hi>Gen:</hi> 18.19.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Ten mâuganan hóggauâuwo quah nejek mukkraauk re tôukretaſſejek quah wémattiddewò<g ref="char:EOLhyphen"/>ak wutche mâwewhèkomunk?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Spe ſúnkowauwunk wutche neiek mat<g ref="char:EOLhyphen"/>ch
+<pb n="64" facs="tcp:42261:33"/>cherewúganſh, <hi>Mat:</hi> 3.6. quah wâuwerrema<g ref="char:EOLhyphen"/>híttewunk wutche youhiek wárremattamewunk 2 <hi>Cor:</hi> 9.13: quah wutche neiék noûſſerewahu<g ref="char:EOLhyphen"/>wâwunk re mòrraniemokaû wunk wutche Ieſus Chriſt quah rìo neiek quah neiek mukkrâauk attúmmonummóauk rame re chanchì awunk wutche maûwewhèkomunk quah wôpretoúng<g ref="char:EOLhyphen"/>anſh youh wutchio.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Qu: <hi>Chawgunſh wôpretoünganſh wutche wè<g ref="char:EOLhyphen"/>tampàddewunk èo. rame àkquinnagàtte wutche wèrraniemokàüwunk wutche Jeſus Chriſt?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Kítcheſſumòunk quah peaiò nênepòm<g ref="char:EOLhyphen"/>pomuk wutche Jeſus Chriſt <hi>Ro:</hi> 14.11. <hi>with Col</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chhàwgun kekeiſtanſh kitcheſſumounganak terre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Rame Kitcheſſumòunk kitzſùmmodean wêeche nippe arta wâuwanûnquot quah wôh<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ètounk wutche nukkitzſommachaûwunk wee<g ref="char:EOLhyphen"/>che
+<pb n="65" facs="tcp:42261:33"/>népuk quah raſhâuwunk wutche Ieſus Chriſt, <hi>Rom.</hi> 6.2. <hi>Act.</hi> 22.16. Quah youhſpe wutche ne ankwhótewunk [állequataûwuuk] ramêre Ie<g ref="char:EOLhyphen"/>ſus Chriſt: wutche akquántemaûetounk quah kitzſímmoden wutche nomátchereûnganſh: <hi>Luk.</hi> 3.3. wutche ne tompkéwunk wutche ſeway<g ref="char:EOLhyphen"/>támmoûnganſh: 1 <hi>Pet.</hi> 3.20, 21. Quah nànak wutche ne rambe-ompkínnawunk wutche nàb<g ref="char:EOLhyphen"/>bajek attâjauche kéſekutt. 1 <hi>Cor.</hi> 15.29.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chaugun kekeîstauſh rame nenepómpomuk wutche Jeſus Christ? aſſwèdam the Lords Supper.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſ.</hi> Rame peaío nenépómpomuk wutche Ie<g ref="char:EOLhyphen"/>ſus Chriſt tínnamounk wutche petúkqunneg quoquaſqûenaman, quah wine ſôkenúmmen, 1 <hi>Cor:</hi> 10.16. <hi>Mat:</hi> 26.26.28 <hi>Joh.</hi> 6.55. muche waúwenúnquat quah wôhprètounk wutche ne tínnamounk wâuwerrechànchine wutche hok wutche Ieſus Chriſt ſukquúnnaman [quoquàſ<g ref="char:EOLhyphen"/>énaman]
+<pb n="66" facs="tcp:42261:34"/>wutche ne, 1 <hi>Cor:</hi> 12.13. Quah <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tche nagnm népuk pôke-ſhínnaman wutche <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>; quah youh ſpe wutche né anchégowunk ra<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Ieſus Chriſt wutche akquantemaûeten quah <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> dihittewũk wutche nomatchereúnganóas; wut<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> waû werrechanchìawunk wutche ewo peaío aſhaúunk wueche ne mílkechâuwunk [mílke<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>uaûwunk quah tauchégowunk wérrittepan<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>mmewúnganak terre: quah wutche ne nap<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>wétappomowâuwunk wêeche Ieſus Chriſt ſke<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ewo àrwenúnquat ahapáppomuk wutche at<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rwejanúnqueſówunk uttâjauche waſſúmmo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aùwúnganak terre.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Queſt. <hi>Chawgun rambe ompkèwunk wutche uppoùnganak, têou moh wôhpretowâuwus [mìlke<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uwáuwus] keunk re kitcheſſumowunganak terre?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>Anſw.</hi> Ieſus Chriſt péant' nagum uttátauche <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>áſſimiddewúnganak re, <hi>Joh.</hi> 5.28, 29 Wame
+<pb n="67" facs="tcp:42261:34"/>warrekáſſejek bitch rambe ompkèwunk, takq<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ſonkkúmbaûjek quah mámattambaûjek. <hi>Act.</hi> 2 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun uttájauche waſſùmmowàwunk té<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> milketàuwo [wohpretauwo] ke rakque rame <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> nepómpomuk wutche Jeſus Chriſt aſſwèdam Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Supper?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Uttàjauche kéſuk keaûwen wâme bi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> mouskemen arquàbe waſſemíddemuk abappó<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> muk, wutche Jeſus Chriſt 2 <hi>Cor.</hi> 5.10. me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> okkêehtâſſowunk wutche neaûwun aírkaſſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> gananſh quah miſſínnaman neaûwun únquet<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tounk yous nouſſe. [nenar râuato àrriit wuto <hi>Mat.</hi> 12.36. 1 <hi>Cor.</hi> 4.5. <hi>Eccl.</hi> 12.14.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>Q. <hi>Chawgun unquetauet óunk teou bitch mèrriten?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>A.</hi> Sunkómbaûjek bitch aug micheme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> ùnganak re, quah mámattambaûjek bitch po<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> naûauk rame re michéme rowtag wêeche <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> quah ewo Angellôag. <hi>Mat.</hi> 25.34.46.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div xml:lang="eng" type="catechism">
+            <pb n="5" facs="tcp:42261:3"/>
+            <div n="1" type="part">
+               <div type="question">
+                  <head>Queſtion.</head>
+                  <p>
+                     <hi>How prove you that there is a God?</hi>
+                  </p>
+                  <div type="answer">
+                     <head>Anſwer.</head>
+                     <p>From the univerſal and conſtant agreement of all nations. and perſons in the world who are rot void of right reaſon and humanity.</p>
+                     <p>For the things which are grounded upon particular mens fancies and opinions are not acknowledged of all men, and are often ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nged but this rotion that
+<pb n="6" facs="tcp:42261:4"/>there is a God is common to all men, nor is it changed by the changes of times; therefore it muſt ariſe from ſome light which is common to all men, and that light muſt be either from tradition which hath fl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>wed from the firſt p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>repts or mankind to all their poſterity from age to age who would not lye to their ch ld<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n in a m tter of ſo great importance; or from an inward light implanted in the minds of all men by himſelf. And that ſuch a light is in every m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n naturally appe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>eth by the f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ares that
+<pb n="7" facs="tcp:42261:4"/>are in all men when they have done y<hi rend="sup">t</hi> which they know to be evill, though no man knoweth and upon extraordinary accidents, as Thun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> liarthquakes<g ref="char:punc">▪</g> ſights in the Aire, blaſing Starre &amp;c: which ſhewes that they know thereis a power, above the creatures, though they ſee him not. who will puniſh ſinn, and can do it when he will. And this is Secondly from the begining of all<g ref="char:punc">▪</g> things that have a dependent being For the things which had a begining could not be cauſe of their own being for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> that which is not cannot act, nor could any thing
+<pb n="8" facs="tcp:42261:5"/>bee before it was therefore it muſt have its begining from ſome other cauſe which is without begining, and therefore the firſt being and efficient cauſe of all other beings.</p>
+                     <p>There was a firſt man, and a firſt woman and a firſt in every kind of living creatures but that firſt man and woman, thoſe firſt of all kinds living creatures could not make themſelves therefore there was a firſt being which ab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ute and in dependent and reſts upon nothing that was before them ad, and
+<pb n="9" facs="tcp:42261:5"/>made them all, and upon whom all other beings depen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. And this is</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How can you know that there is a God, ſeeing you never ſaw him, nor can ſee him?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>I know I have a reaſonable ſoul, though I never ſaw it. nor can ſee it. The ſoul were not a ſpirituall ſubſtance if it could be ſeen with bodily eyes, and ſo no ſoul in like manner were not a Spirit if he could be ſeen with bodily eyes and ſo no God.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>But no man can fully know Gods nature therefore no God?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>It followeth not, for
+<pb n="10" facs="tcp:42261:6"/>an infer our nature cannot fully; underſtand the things of; an higher and more excellent nature, then, it ſelf. Be<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> cannot underſtand what man is, much leſs how to plant and govern Common-wea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es, or to become earned o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſayl over the Seas &amp;c: For theſe things exceed their capaci<g ref="char:EOLhyphen"/>ties in l ke manner man ſeeing himſelf to be made of a more noble nature <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>en beaſts, and that not of him ſelf: muſt needs inferr that he who made him ſuperiour to beaſts he modes above man. then man is above beaſts and therefore that y<hi rend="sup">e</hi> full, knowledg of his
+<pb n="11" facs="tcp:42261:6"/>nature excceeds mans capacity.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Are there many Gods? or is there but one true God?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>There are not many Gods, there is only one true God.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How do you prove that that there is but one true God?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>Becauſe the reaſon why ſingular things of the ſame kind <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re multiplied is not to be found in the nature of for the reaſon why ſuch ke things are multiplied is from the fruitfulneſs of their cauſes: but hath no cauſe of his being but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is of hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe f therefore he is one.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <pb n="12" facs="tcp:42261:7"/>
+                     <p>Becauſe ſingular things of the ſame kind when they are multiplyed, are differenced among them ſelves by their ſingular propertyes; but there cannot be found another God differenced from this by any ſuch like propertyes.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>Becauſe its proper to God to do whatſoever he willeth; if there were many Gods they might will contrary things, and one might be hindred by another, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o y he could not do what he would<g ref="char:punc">▪</g> which can not ſtand with the Omnipotency and nature of God.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>But may there not be many Gods: yet ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> that one as the cheifeſt and greateſt of all?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <pb n="13" facs="tcp:42261:7"/>
+                     <p>No, becauſe the firſt being muſt be abſolutely Su<g ref="char:EOLhyphen"/>pream becauſe he depeudeth upon nothing, he reſts not upon any perſon but is alſufficient to him ſelf and to all things; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll things depend upon him that which is not abſolutely cheifeſt and above all cannot be God.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>Becauſe the Eſſentiall propertyes of God are ſuch as cannot be given to any more then one.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What are theſe Properties which are peculiar to God alone</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>There are many I ſhall inſtance in three which include the reſt.</p>
+                     <p>That all perfections are
+<pb n="14" facs="tcp:42261:8"/>in him originally, and eminently as in the firſt cauſe, from which heaven and earth and all things in them receive whatſoever good they haue that all perrecti<g ref="char:EOLhyphen"/>on are in in<g ref="char:EOLhyphen"/>fin<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> the reaſon why the be ng and goodneſs of all creatures is limitted, is becauſe the cauſe whereby they exiſt hath co<g ref="char:cmbAbbrStroke">̄</g>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ted ſo much to them an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> no more, and hath made them capable of ſo much and no more but receiveth not any thing from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nother but is a Spirit living in him ſelf, or of himſelf therefore God is not limmitted his ſtrength is Infinite whatſoever he willeth he doeth in heaven &amp;
+<pb n="15" facs="tcp:42261:8"/>earth his Knowledg is Infinite he knoweth all things; he heareth all the words, and he ſeeth all the works of all men in all the world his Goodneſs is Infinite he is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ce<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y good, he go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s beyond all in goodneſs he doeth good towards all creatures, the preſence of God is infinite, he is every where in all the world f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lling all places and goes not from p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e to place, as doth the creatures his life is Infinite, he is Eternal, without begining and without end.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>That the true God is perfectly bleſſed in himſelf, A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſufficient of himſelf, he needs not ſupply from an other For,</p>
+                     <div n="1" type="part">
+                        <pb n="16" facs="tcp:42261:9"/>
+                        <p>He knows all things at once and together in all the world, without diſcourſe by the Infiniteneſs of his Eſſence.</p>
+                     </div>
+                     <div n="2" type="part">
+                        <p>He willeth moſt freely whatſoever is good and ſo perfectly that whatſoever he willeth is good ſo f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tr as he willeth it, and becauſe he wil<g ref="char:EOLhyphen"/>leth it, For is ſimply and Infi<g ref="char:EOLhyphen"/>nitely good.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How do you prove that heaven and earth, and all things in them have the original of their being from</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>This followeth from what was ſaid before, for we have proved that God hath his being of himſelf, and is but one therefore all
+<pb n="17" facs="tcp:42261:9"/>other things have either in them ſelves, or in their cauſes their being from him.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>The common underſtanding of men doth evince this, if we con<g ref="char:EOLhyphen"/>ſider any of the creatures particu<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>y the framing of mans body within and without how all the parts of mans body, yea the leaſt have their ſeveral uſes, and are fitted to thoſe uſes, by no ſtudy or induſtry of their parents, yet with ſuch wiſdom that the more learned and the more wiſe men are the more they admire it. No wiſe man can imagine that ſtones and tîmber grew into an houſe,
+<pb n="18" facs="tcp:42261:10"/>by chance, or of themſelves, but that ſome skilfull artificer fitted, placed, and joyned them together; ſo, when we ſee heaven and earth ſo framed and among all creatures, one thing fitted to another and all things to their proper uſes, we cannot but con<g ref="char:EOLhyphen"/>clude that there is a moſt wiſe maker of the world. and all things in the worlds and this can be no other but the true God.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>But many evills are done in the world, and are in mens hearts is the author or the cauſe of theſe evills?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="19" facs="tcp:42261:10"/>
+                     <p>No for is of himſelf perfectly good, though the power of acting be of yet this abuſe of that power to ct ſinfully is of themſelves. God made the Angels and men with a liberty of acting which was not vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ious yet it might by its own power produce ſomething that is vicious, it was from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>buſe of their free will that fallen angels now devills and and and in them all mankind ſin<g ref="char:EOLhyphen"/>ned.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Though be not the cauſe of ſinn, yet are there not two active beginnings, the one good; and the author of all good;
+<pb n="20" facs="tcp:42261:11"/>the ether evill the author and cauſe of evill.</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>That cannot be, for if there were two ſuch contrary acting beginning they would alwayes be fightings one againſt another whence deſtruction would follow.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>Neither is any thing ſo evill as is of himſelf good for evill is a kind of de<g ref="char:EOLhyphen"/>fect which can not be, but in a thing exîtlent, and to exiſt is ſome good.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>The true hath all ſtreg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th and the ſures; the gods of the heathen are weak and poor He fills heaven and earth, and is every where in all the world.</p>
+                     <p>
+                        <pb n="21" facs="tcp:42261:11"/>If, there be other gods where are they</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Seing made heaven and earth, and all things in them, does He now leave them and no more look after them as a carpenter doth leave an houſe he hath built?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>No, for a carpenter looks nor after the houſe he hath built, not for him ſelf, otherwiſe, if he made it for himſelf, continually he doth look after it. So made all things not for an other but for himſelf, and therefore doth preſerve them and govern them for the ends wherefore he made them and to which he appointed them and according to y<hi rend="sup">e</hi> ſeveral natures he hath given them; Some by Reaſon as men others by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> natural <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <pb n="22" facs="tcp:42261:12"/>as Senſitive cratures: others by their natural pro pertyes, as the fire aſſcends and water deſcends.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How do you prove that Gods pro<g ref="char:EOLhyphen"/>evid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce doth<g ref="char:punc">▪</g> govern all the world<g ref="char:punc">▪</g>
+                     </hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>By the motion of things againſt their proper nature for the good of the uni<g ref="char:EOLhyphen"/>verſe as we ſee fire will de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cend and water aſcend 01 contr ry to their natures to prevent emp<g ref="char:EOLhyphen"/>tineſs for the good of the uni<g ref="char:EOLhyphen"/>verſe.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>By the na<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ural care which not o ly men indued w<hi rend="sup">t</hi> underſtanding, but al o be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſts and fowles th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> wa <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>lon ha e o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <pb n="23" facs="tcp:42261:12"/>their young: which being a part of goodneſs muſt he acknowledged to be of God em<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nently towards all his creatures in the world: and the rather becauſe he is preſent every where and knowes all things, and can eaſily order them to the ends wherefore he made them.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>ordereth the Sun, moon and ſtarrs and clouds of heaven for the benefit of the creatures on earth, principally of man.</p>
+                  </div>
+                  <div n="4" type="answer">
+                     <p>Becauſe Common-weales are kept, ſaved, deſtroyed and changed by the will of God</p>
+                  </div>
+                  <div n="5" type="answer">
+                     <p>Becauſe all men in great diffi<g ref="char:EOLhyphen"/>culties, diſtreſſes and
+<pb n="24" facs="tcp:42261:13"/>exigents naturally do cry to God for help which teacheth us that the knowledg of Gods providence towards all perſons, and things upon the earth is implanted in the natural hearts of all men.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>How do you prove that all ſingular things are governed by Gods Povidence?</p>
+                  <div n="1" type="answer">
+                     <p>Becauſe ſingular things are or<g ref="char:EOLhyphen"/>dered and directed to thoſe ends whereto God made them.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>Becauſe God is preſent in the whole world, and his Wiſdom and Strength are Infinite.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>Becauſe gener<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o ſubſiſt in lingu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>s: and there<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e if
+<pb n="25" facs="tcp:42261:13"/>ſingulars were not preſerved by Gods providence the generalls would periſh with them.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>If it be ſo; how then comes it to paſs that Sin doth ſo abound in in the world?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>Even the ſinns that abound in the world do manifeſt that Gods providence doth govern all things on earth. Becauſe thereby the effects of finne are kept under limmited reſtrained and hindered leaſt they ſhould proceed ſo farr as otherwiſe they would to the overthrow of Common-weales and that one man ſhould not live by another.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>Becauſe, over-rulein the effects of mans ſinns
+<pb n="26" facs="tcp:42261:14"/>which he permitteth to good ends either to Puniſh one wicked-man by another, or to correct his own people when they wander from his righteous Rules, or to try the faith patience and con<g ref="char:EOLhyphen"/>ſtanoy of believers eminent in grace.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>Becauſe though per<g ref="char:EOLhyphen"/>mitts wicked men to proſper in this world for a time; yet at laſt when they dy Gods puniſhing will ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e done upon them who would not Gods Commanding wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l but were diſobedient thereunto</p>
+                  </div>
+                  <div n="4" type="answer">
+                     <pb n="27" facs="tcp:42261:14"/>
+                     <p>Becauſe thus God drawes men to look for the great Judgment before it come after this life wherein will render to all men after their workes in this world<g ref="char:punc">▪</g>
+                     </p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How do you prove that the ſoules of men live when their bodyes be dead, and that ſoul and body ſhall be ioyned together to appear before in that Iudgment?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>By the power of the natural conſcience of all men comforting them when they do well. and accuſing Judg<g ref="char:EOLhyphen"/>ing and tormenting them when they do evill, eſpecially near their death, which ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wes that they expect a Judg<g ref="char:EOLhyphen"/>ment to come.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <pb n="28" facs="tcp:42261:15"/>
+                     <p>By the natural deſire of immortalitie which is in all men.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>By the natural motions and expectations, that Indians have of living in an other country to the ſouthward after they have lived in this: we ſee treas in winter looſe thir beauty and in the ſpring live again.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth govern man?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>By giving and preſcribing a law to him, and by ordering that as men do receive that law they that live for ever in Gods love; or as they reject that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>w they that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>raal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <pb n="29" facs="tcp:42261:15"/>miſery its meet that a reaaonable creature made after the Image of ſhould be ſo governed in way to euerlaſt<g ref="char:EOLhyphen"/>ing life.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What Law did preſcribe to men? and how did he preſcri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e it to him?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>The law preſcribed was that men ſhould live after Gods revealed will revealed to men that his will of old part<g ref="char:EOLhyphen"/>ly inwardly, by writing his law in mans heart; partly outwardly by declaring what he wuleth that man ſhould do, and avoyd, confirming that law
+<pb n="30" facs="tcp:42261:16"/>to man by promiſes and threatnings and binding man to obedience by a ſolemn covenant.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Why did reveale his mind and will to men by ſuch like outward meanes ſeeing he governs other creatures after another manner.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Becauſe man in his life underſtands by his ſenſes; as by ſeeing and hearing, therefore revealeth his will to men outwardly, partly by ſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>king to his eares by an audible voyce, that men may hear and underſtand partly by caeſing his will to be writt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n in
+<pb n="31" facs="tcp:42261:16"/>a book, that man may ſee, read and underſtand what willeth that he know and do that he may be bleſſed.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Was the will of made known to man at all times by being written in a book?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>It was alwayes neceſſary that the will of ſhould be made known to man by a word, for would never ac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ept any worſhip or ſervice from man, but what was according to his word, which word is the only Rule of the Obedience of men towards God but this word was not written at a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> times for
+<pb n="32" facs="tcp:42261:17"/>from to revealed his will by viſions dreames, and Oracles to few and ſpread it from them to many the father teaching his ſonn, and one making known to and teaching another the will o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> when the Church was ſhut up in few families.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Why was the word of afterwards written in a book?</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>When the Church was enlarged and began to ſpread it ſelf into a greater compaſs, and alſo errours in Religion increaſed, and Gods
+<pb n="33" facs="tcp:42261:17"/>people converſed with Ido<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> they were more ſubject to be miſled then it was neceſſary that Gods word ſhould be written in a book.</p>
+                     <p>1. To prevent forgetfullneſs.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>2 To avoid errours and preſerve the Trueth of from corruption in all ages there being but one true and righteous Rule whereby to judg the trueth.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>3 To ſettle all men in this point that in whom we believe is that Saviour. in whom all the promiſes and Propheſies of the ol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l Teſtament were fulfilled which is
+<pb n="34" facs="tcp:42261:18"/>known by comparing with them what is written of him, in the new Teſtament and therefore that there is not another <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>me elſe given under heaven wher by w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> may be ſaved.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is that book wherin theſe things are written?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>It is that book called Gods Book Gods word, Gods Trueth, which con<g ref="char:EOLhyphen"/>teineth the Law, written by and the Prophets. And the new Teſtament in which wee have a full and manifeſt diſcovery of the myſtery of</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How do you prove that this Book con<g ref="char:EOLunhyphen"/>teineth
+<pb n="35" facs="tcp:42261:18"/>the word of</hi>
+                  </p>
+                  <div n="1" type="answer">
+                     <p>Becauſe it conteineth a wiſedom f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rr above <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll that can bee had by P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inces, or th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> moſt ar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d and wiſe men <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f this world.</p>
+                  </div>
+                  <div n="2" type="answer">
+                     <p>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> makes wiſe Gods Elect to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſalv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tion.</p>
+                  </div>
+                  <div n="3" type="answer">
+                     <p>Becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Propheſies conteined in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Scriptures <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> have been exactly and <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap>lly fulfi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ed.</p>
+                  </div>
+                  <div n="4" type="answer">
+                     <p>hath from time to time t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rmented the manifeſt enemies of his Book, and <gap reason="illegible" resp="#PDCC" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap>ies of thoſe who have prof<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap> and p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ctiſed th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Religion and wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>p of taugh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> there in.</p>
+                  </div>
+                  <div n="5" type="answer">
+                     <pb n="36" facs="tcp:42261:19"/>
+                     <p>Becauſe all men in all the world are required to worſhip accord<g ref="char:EOLhyphen"/>ing to this his word. The greateſt princes of this world have their lipits hath none.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Gods word was given long agee, How then doth it concern <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe who now live in theſe dayes?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Gods word doth hold forth his eternal and unchangeable. Will, concerning all things neceſſary to be believed, and done by all who would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ee ſayed in all Ages; and therefore was written forius as well as for thoſe who Lived long agoe all being children of he
+<pb n="37" facs="tcp:42261:19"/>ſame firſt parents and made of one blood all nations of men of the earth and of this rib, and ſo one man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt another, and that ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ther, and that man anothers; and one generation begat another, ſo all men are as branches of the Root all men are of the ſame nature: all are like in theire bodies theire heads, eares, eyes, mouth, and tongue.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Gods word was given to other nations, how then doth it concern the In<g ref="char:EOLhyphen"/>dians.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Gods word was firſt given to the Jews onely. till the comeing of ſuffered all Nations to walk in their own
+<pb facs="tcp:42261:20"/>wayes but when came in mans n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ture hee ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt his word to all Nations of the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> according to the propheſies of and of the Gentii s which his word they receive ſome ſooner ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ter then <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>er</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>If the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s receive Gods Word will it not take away the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ur and Riches of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the ſac<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ms, and Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erty of the Indians?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>No, in noe wiſe. yea this would quickly incre ſe th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> honour and Riches <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> S chems By humilitie and the feare of are Riches
+<pb n="39" facs="tcp:42261:20"/>honour, and life. and this will inlarge the liberty of the indians by freeing them from the bon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ge of ſin and Sa<g ref="char:EOLhyphen"/>than.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <p>The ſecond part ſhewing them by the Scriptures of the divine truths neceſſ rie to eternal Salvation.</p>
+               <div type="question">
+                  <p>
+                     <hi>Wherein ſtands mans Happineſs?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Not in the pleaſures, nor in the treaſures of this world.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Why ſo?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Becauſe our life is ſhort, wee can but poſſeſs them a little whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Theſe things cannot ſatiſfie
+<pb facs="tcp:42261:21"/>now while wee live, nor will they accompany us when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dy.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Wherin then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>anas mans happineſs?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Mans happineſs conſiſts in the fruition of his free Love by the chief deſireable good, that any can ſeek for or find.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Why ſo?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Becauſe this Love is from everlaſting and to everlaſting it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th not. Moſt free of all Loves its the greateſt moſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>tiſ<g ref="char:EOLhyphen"/>fying.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Wherin is chiefly made known to men?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>In his word which ſhewes
+<pb facs="tcp:42261:21"/>men, what they ought to avoyd believe, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oe that they may pleaſe live to him yea live for ever with him. (Tit. 2.12 Deut. 29.29</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Who is?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Is a Spirit eternal all knowing, al-ſeeing, moſt mercifull moſt righteous of himſelfe, ann himſelves. (Joh. 4.24. Pſa. 90.2. 2 Chro<g ref="char:cmbAbbrStroke">̄</g>. 6.30</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How many Gods ſee there?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thereis but one very true in three perſons three in one, the Father, the Son, and the hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-Ghoſt. as in man there be his will underſtanding, and memorie thoſe three, yet but one man: So in the God-head, there are three perſons, yet but one.
+<pb n="42" facs="tcp:42261:22"/>this is a glorious myſtery which will reveal more fully to his people both her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n heaven hereafter.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What hath the true God done for thee?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>hath ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e me, he doth keep me. and he can ſave mee.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How did make you?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>In my firſt patents he made mee holy, and righteous and like himſelf in knowledge.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Are you then born holy and righteous.</hi>
+                  </p>
+                  <div type="answer">
+                     <p>No. my firſt father ſinned and I in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m.
+<pb facs="tcp:42261:22"/>made the firſt man as th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> of all m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>kind, and gave and in him all men all ood things what rec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ived in the b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing when God made him, hee received it not for <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f alo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> with him all men receîved i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and what heé loſt hee loſt not for himſelf alone all men loſt it in him what did as if all men did it; he ſinned therefore all ſinned.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Were you born a ſinner?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>I was conceived in ſin, and born in iniquity, and ſo by my nature am as a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>thy loath<g ref="char:EOLhyphen"/>ſome
+<pb n="44" facs="tcp:42261:23"/>ſome creature and in my ſelf by reaſon of my ſin obdious to</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is your birth ſinn?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>They ſinn of imputed to mee and a currupt, nature dwelling in mee.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is Adams ſinn imputed to you?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>The eating of the forbidden tree. Gen. 3.11.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is your corrupt nature?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>My corrupt nature is empty of grace, bent unto ſinn, onely unto ſinn, and that continually. not a creature upon earth hath So an infect<g ref="char:EOLhyphen"/>ed nature as all men have.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is Sin?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="45" facs="tcp:42261:23"/>
+                     <p>Sin is a breach of Gods Commandements.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ny Commandements are there?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Tenn.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the firſt Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt have no other gods but Mee.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is</hi> the <hi>meaning of this Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>That wee ſhould worſhip the onely true. Is the onely true there are no other gods the gods of the inſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ells are Devills and man-Slayers.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the ſecond Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt not make any graven image unto thee or the likeneſs of any thing, which is in heaven above
+<pb n="46" facs="tcp:42261:24"/>or in earth beneaah, or in y<hi rend="sup">e</hi> water under the earth. Thou ſhalt not bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> down, thy ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>f to them, thou ſhalt not ſerve them: for I thy am a <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ous viſiting the iniquity of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s upon their children to the third and fourth generation, of them that hate me and ſhewing mercy unto thouſands of them who love me and keep my Commandements.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the meaning of into Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>That wee ſhould worſhip The True with True worſhip, ſuch as hath ordained not ſuch as men do invent</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <pb n="47" facs="tcp:42261:24"/>
+                  <p>
+                     <hi>What is the</hi> 3d <hi>Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt not take in vaine the Name of thy God. for will not hold him guiltleſs that taketh his name in vaine.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What meanes here the Name of thy?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Himſelf, and the good things of whereby is known as a man is known by his name as his At<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>utes worſhip Word and Works. Deua. 28.58. Ex. 30 19. with. 34.6</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What meanes that ſhalt not take his name in vaine?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>That all men ſhould ſpeak of himſelf, and of the good things of for his glory
+<pb n="48" facs="tcp:42261:25"/>and for their good not vainly, not unreveren<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ly, not unprofitablely, 24. 1 Cor 10.31. Job: 5: 27:</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the fourth Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Remember the Sabbath day to keep it holy, Six dayes, ſhalt thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>abour, and doe all thy workes. but the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th day is the Sabbath of thy on that day thou ſhalt not do any work, thou nor thy Son nor thy daughter man-ſervant, nor m id-ſervant, nor thy cattel nor thy ſtranger within thy gates for in S x dayes made heaven, and earth the ſea and all things that in them bee and reſted
+<pb n="49" facs="tcp:42261:25"/>the ſeventh day wherefore bleſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d the Sabbath day, and hallowed it.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the meaning of this Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>That all ſhould Reſt from work and much more from play on the Lords day<g ref="char:punc">▪</g> that wee may draw near to in good works.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fth Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Honour thy father and thy mother that thy <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>es may bee long in the l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd which thy giveth thee</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Who are called thy father and mother</hi>
+                  </p>
+                  <div type="answer">
+                     <p>All Rulers whither in families the ſchool in Church or in the common-wealth.
+<pb n="50" facs="tcp:42261:26"/>(2.12. 1 <hi>Cor.</hi> 4.15</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the honour to Superiours?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Reverence Obedience and whan I am able recompence. 1 Tim. 5.1. 1 Sam. 25.8.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the fixt commande<g ref="char:EOLhyphen"/>ment?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt doe no murther. (1 <hi>Tim.</hi> 5.4.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What means this commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>That wee ſhould not ſhorten the life or health of our ſelves or others but preſerve both.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the ſeventh commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt not Committ Adultery.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the ſinn here forbidden?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="51" facs="tcp:42261:26"/>
+                     <p>To defile our ſelves, or others with unclean luſts.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is here Commanded?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Chaſtity to preſerve our bodies in holynes and hon<g ref="char:EOLhyphen"/>our.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the eight Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt not ſteal.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the ſtealth here forbidden?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>To take away another mans goods with<g ref="char:EOLhyphen"/>out his knowledg without his gift, or to ſpend our own goods without pro<g ref="char:EOLhyphen"/>fit to our ſelves or others gaine As Bad Indians do ſpend their eſtates when they hant wheres
+<pb n="52" facs="tcp:42261:27"/>and play at ſtrawes.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is Where Commanded?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Well to g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tt our goods well to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and well <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> them.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Whai <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s the ninth Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thou ſhalt not beare falſe witnes againſt thy neighbour.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the ſinn here forbidden?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>To <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y falſly to think or ſpeak that which is not truth of our ſelves or others.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is here Commanded?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Truth and faithfullneſs</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the tenth Commandement?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="53" facs="tcp:42261:27"/>
+                     <p>Thou ſhalt not covet the houſe of thy neighbour, Thou ſhalt not cover the wife of thy neigh<g ref="char:EOLhyphen"/>bour, nor his man-ſervant nor his maid-ſervant nor his ox, nor his aſſe, nor any thing that is thy neighbours.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the coveting here for<g ref="char:EOLhyphen"/>bidden?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt after other mens goods<g ref="char:punc">▪</g> and want of contentment with our own e<g ref="char:EOLhyphen"/>ſt</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Whether have you kept all theſe Commandements?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>No, I and all men are ſinners</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the wages of ſinn?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb facs="tcp:42261:28"/>
+                     <p>Death and eternal torment.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How then look you to bee ſaved?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Onely by</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Who is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>alled</hi>
+                  </p>
+                  <div type="answer">
+                     <p>The eternal Sonn of who for our ſakes became man, that he might redeem and ſave us.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth he redeem and ſave us?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>By his righteous life, and bitter death and glorious reſurrection againe to life.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How came you to have part and fellowſhip with in his Death and his reſurrection?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>By the power of his
+<pb n="55" facs="tcp:42261:28"/>word and Spirit which b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gs us to and keeps us in him.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is his word?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>The holy Scriptures pen<g ref="char:EOLhyphen"/>ned by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ient miniſters of his word <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>lled the old and N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w Teſtament, the L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w and Goſpel.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth the miniſtry of the Law bring you towards</hi>
+                  </p>
+                  <div type="answer">
+                     <p>As it brings me to know my ſinn and the wrath of to wards mee for it. Rom. 3.20. Gal. 3.10.24.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth the knowledge of thy ſinn bring you to wards?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thereby I come to feele my
+<pb facs="tcp:42261:29"/>eurie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> eſtate, and need of Saviour.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e of the Goſpel help you in this curſed eſtate?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>It humbles <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ee yet more, and then rayſes mee out of this miſerable eſtate.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth the <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>rie of the Goſpell humble you more?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <hi>By</hi> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>vealing the free love of Becauſe he dyed to ſave ſin<g ref="char:EOLhyphen"/>ners: and yet con<g ref="char:EOLhyphen"/>vincing mee of my ſinn, becauſe I be<g ref="char:EOLhyphen"/>lieve not on him, and of my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>trer inſuffi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ncy to come to him And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o I fe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e my ſelf
+<pb n="57" facs="tcp:42261:29"/>utterly loſt.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How men doth the miniſtry of the Goſpel rayſe you up out</hi> of that loſt eſtate to come <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <div type="answer">
+                     <p>As it teacheth mee the value and the virtue of the death of and the riches of his free love to loſt ſin<g ref="char:EOLhyphen"/>ners: v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s the promiſe of grace to ſuch and miniſters the holy Spirit of grace to aply and has promiſe of grace unto my ſelf, and keeps me in him.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <pb facs="tcp:42261:30"/>
+                  <p>How doth the holy Spirit of Grace help you and bring you to and cauſe you improve his promiſe and keép you in him?</p>
+                  <div type="answer">
+                     <p>By begetting in me faith to receive him. prayer to call upon him. Repentance to mourn after him, and new obedience to ſerve him.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is Faith?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Faith is a grace of the holy Spirit; Whereby I deny my ſelf and believe on for righteouſneſs and everlaſting
+<pb facs="tcp:42261:30"/>life.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is Prayer?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Prayer in a calling upon in the name of by the help of the holy Choſt acc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ng to the will of (5.14?</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How did teach his diſciples to pray?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Thus.</p>
+                     <p>Our father in heaven Hallowed be thy Name, Let come thy Kingdome, thy Will be done on earth as in Heaven Give us this day our dayly food, Forgive us our treſpaſſes as we forgive them that treſpaſs againſt us, Lead us not
+<pb n="60" facs="tcp:42261:31"/>into temptation, but deliver us from evill, for thine is the Kingdom, and the power, and the Glory for<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>er and f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> ever: Amen</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is Rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Repent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nce <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s a grace of the holy Spirit, whereby I loath my ſinnes an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> abhorr myſelf for them, and confeſs them before and mourn after for the par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on of them, and for grace to ſerve him in newneſs of life.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is this new life, or O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>edience?</hi>
+                  </p>
+                  <div type="answer">
+                     <pb n="61" facs="tcp:42261:31"/>
+                     <p>Newneſs of life is a grace of y<hi rend="sup">e</hi> holy Spirit whereby I forſake my former luſt and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>in com<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>y and walk before in the light of his word, and in the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mmu <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n of the Saints.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the Communion <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the Saints?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>It is the fellowſhip of the Church in the ſpiritual good things of the Covenant of Grace, and the Seales therof.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the Church?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>A Congregation of Saints joyn<g ref="char:EOLhyphen"/>ed
+<pb n="62" facs="tcp:42261:32"/>together in the Bond of the covenant, to worſhip and edefie one another in all his good ordinances 14.23.26.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the Bond of the co<g ref="char:EOLhyphen"/>venant in which the Church is ioyned together?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>It is the profeſſion of that Cove<g ref="char:EOLhyphen"/>nant which hath made with his faithfull people that he will bee a God to them and to their ſeed.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>Vnto what doth bind his people in this Covenant?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>To give up themſelves and their ſeed firſt to that they may become h s people. (2 Cor: 8.5
+<pb n="63" facs="tcp:42261:32"/>and then to the Elders and brethren of the Church, to ſet forward the worſhip of and their mutual edification. (w<hi rend="sup">t</hi> 10.28, 29 <hi>to</hi> 24</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How do they give up themſelves and their ſeed to</hi>
+                  </p>
+                  <div type="answer">
+                     <p>By receiving through faith and his Covenant to themſelves and their ſeed, and ac<g ref="char:EOLhyphen"/>cordingly walking themſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lves and trayning up their children in the wayes of his Covenant,</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>How doth they give up themſelves and their children to the Elders and brethren of the Church?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>Sy confeſſion of their
+<pb n="64" facs="tcp:42261:33"/>and profeſſion of their<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ith, and of their ſubjecti<g ref="char:EOLhyphen"/>on to the Goſpel of and ſo they and their children are received into the fellowſhip of the Church, and the ſeales thereof.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What are the Seales of the Coven<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt now in the dayes of the Goſpel? of</hi>
+                  </p>
+                  <div type="answer">
+                     <p>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>iſm<g ref="char:punc">▪</g> and the holy Supper of (2.11.1. to 11.25</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is done for you in Baptiſm?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>In Baptiſm the waſhing with water is a ſign and ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l of n v w<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ng with
+<pb n="65" facs="tcp:42261:33"/>the blood and Spirit of and, thereby of my ingraſſing into of the pardon and cleanſing of my ſinnes: of my riſing up out of af<g ref="char:EOLhyphen"/>fliction. and alſo of my reſurrection from the dead at the laſt day</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is done for you in the ſupper of called</hi>
+                  </p>
+                  <div type="answer">
+                     <p>In the holy Supper of the receiving of bread broken, and poured out is a ſigne and ſeale of my receiving communion of the body of broken
+<pb n="66" facs="tcp:42261:34"/>for mee, And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of his blood ſhed for and thereby of my growth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the pardon and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of my ſinnes; the fellowſhip of his holy Spirit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of my ſtrengthning and quickning in grace and of my ſitting together with up his throne of glory at the laſt Judge<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the reſurrection from the dead, which was ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aled up to you i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Baptiſme?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>When ſhall come to his laſt Judgement: all that
+<pb n="67" facs="tcp:42261:34"/>are in the grave ſhall riſe againe, both the juſt and the unjuſt.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the laſt Iudgment which is ſealed up to you in the Supper of called <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi>
+                  </p>
+                  <div type="answer">
+                     <p>At the laſt day wee all ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> appeare before the Judgement ſe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> of to an account ef our w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> and to receive our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ward according to them.</p>
+                  </div>
+               </div>
+               <div type="question">
+                  <p>
+                     <hi>What is the reward that ſhall be given?</hi>
+                  </p>
+                  <div type="answer">
+                     <p>The righteous ſhall goe into laſting life, and the wicked ſhall caſt into eternal fire with the D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and his Angells.</p>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
